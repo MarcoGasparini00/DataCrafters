@@ -158,7 +158,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#assists">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -188,7 +188,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#games">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -198,7 +198,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#goals">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -208,7 +208,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#keyPasses">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -218,7 +218,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#minutes">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -238,7 +238,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#npg">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
         <rdfs:comment xml:lang="en">Non-penalty goals</rdfs:comment>
     </owl:DatatypeProperty>
@@ -249,7 +249,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#npxG">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">The number of expected non-penalty goals of a player.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -260,7 +260,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#npxG90">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">Expected non-penalty goals per 90 minutes.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -271,7 +271,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#redCards">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -284,8 +284,8 @@
         <rdfs:domain>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
                     <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
                 </owl:unionOf>
             </owl:Class>
         </rdfs:domain>
@@ -299,7 +299,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#shots">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -328,7 +328,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xA">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">The number of expected assists of a player.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -339,7 +339,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xA90">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">Expected assists per 90 minutes.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -350,7 +350,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xG">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">The number of expected goals of a player, based on understat.com algorithm.</rdfs:comment>
         <rdfs:seeAlso>http://understat.com</rdfs:seeAlso>
@@ -362,7 +362,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xG90">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">Expected goals per 90 minutes.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -373,7 +373,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xGBuildup">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">Total xG on all the possessions a player is involved in, not considering his shots and assists.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -384,7 +384,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#xGChain">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment xml:lang="en">Total xG on all the possessions a player is involved in.</rdfs:comment>
     </owl:DatatypeProperty>
@@ -395,7 +395,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#yellowCards">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -420,9 +420,9 @@
     
 
 
-    <!-- http://www.dei.unipd.it/db2/dcsso#Defender -->
+    <!-- http://www.dei.unipd.it/db2/dcsso#DefenderClass -->
 
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Defender">
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#DefenderClass">
         <owl:equivalentClass>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
@@ -466,9 +466,9 @@
     
 
 
-    <!-- http://www.dei.unipd.it/db2/dcsso#Forward -->
+    <!-- http://www.dei.unipd.it/db2/dcsso#ForwardClass -->
 
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Forward">
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#ForwardClass">
         <owl:equivalentClass>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
@@ -498,9 +498,9 @@
     
 
 
-    <!-- http://www.dei.unipd.it/db2/dcsso#Goalkeeper -->
+    <!-- http://www.dei.unipd.it/db2/dcsso#GoalkeeperClass -->
 
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Goalkeeper">
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#GoalkeeperClass">
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#subPosition"/>
@@ -526,9 +526,9 @@
     
 
 
-    <!-- http://www.dei.unipd.it/db2/dcsso#Midfielder -->
+    <!-- http://www.dei.unipd.it/db2/dcsso#MidfielderClass -->
 
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Midfielder">
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#MidfielderClass">
         <owl:equivalentClass>
             <owl:Class>
                 <owl:unionOf rdf:parseType="Collection">
@@ -572,9 +572,49 @@
     
 
 
+    <!-- http://www.dei.unipd.it/db2/dcsso#SeasonalAggrMembership -->
+
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalAggrMembership">
+        <rdfs:subClassOf rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+        <rdfs:comment>Reunites the main information and statistics about a player&apos;s season in two teams..</rdfs:comment>
+    </owl:Class>
+    
+
+
     <!-- http://www.dei.unipd.it/db2/dcsso#SeasonalMembership -->
 
     <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership">
+        <rdfs:subClassOf rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#forTeam"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.dei.unipd.it/db2/dcsso#Team"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment xml:lang="en">Reunites the main information and statistics about a player&apos;s season in a single team.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation -->
+
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#season"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Reunites the main information and statistics about a team&apos;s season in its domestic league.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.dei.unipd.it/db2/dcsso#SeasonalRecord -->
+
+    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord">
         <rdfs:subClassOf>
             <owl:Class>
                 <owl:intersectionOf rdf:parseType="Collection">
@@ -590,11 +630,6 @@
                     </owl:Restriction>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#goals"/>
-                        <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                        <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
-                    </owl:Restriction>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#keyPasses"/>
                         <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
                         <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
                     </owl:Restriction>
@@ -659,35 +694,16 @@
                         <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
                         <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
                     </owl:Restriction>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#xGBuildup"/>
-                        <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                        <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
-                    </owl:Restriction>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#xGChain"/>
-                        <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                        <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
-                    </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#forTeam"/>
+                <owl:onProperty rdf:resource="http://www.dei.unipd.it/db2/dcsso#season"/>
                 <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.dei.unipd.it/db2/dcsso#Team"/>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">Reunites the main information and statistics about a player&apos;s season in a single team.</rdfs:comment>
-    </owl:Class>
-    
-
-
-    <!-- http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation -->
-
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation">
-        <rdfs:comment>Reunites the main information and statistics about a team&apos;s season in its domestic league.</rdfs:comment>
     </owl:Class>
     
 
@@ -704,14 +720,6 @@
 
     <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Team">
         <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Group"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.dei.unipd.it/db2/dcsso#Unspecified -->
-
-    <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Unspecified">
-        <rdfs:subClassOf rdf:resource="http://www.dei.unipd.it/db2/dcsso#Footballer"/>
     </owl:Class>
     
 
@@ -872,26 +880,6 @@
         <rdf:type rdf:resource="http://www.dei.unipd.it/db2/dcsso#SubPosition"/>
         <skos:broaderTransitive rdf:resource="http://www.dei.unipd.it/db2/dcsso#Forward"/>
     </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.dei.unipd.it/db2/dcsso#TmpPlayer -->
-
-    <owl:NamedIndividual rdf:about="http://www.dei.unipd.it/db2/dcsso#TmpPlayer">
-        <rdf:type rdf:resource="http://www.dei.unipd.it/db2/dcsso#Footballer"/>
-        <dcsso:hasMembership rdf:resource="http://www.dei.unipd.it/db2/dcsso#TmpSeason1516ExTeam"/>
-        <dcsso:subPosition rdf:resource="http://www.dei.unipd.it/db2/dcsso#CentreBack"/>
-    </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.dei.unipd.it/db2/dcsso#TmpSeason1516ExTeam -->
-
-    <owl:NamedIndividual rdf:about="http://www.dei.unipd.it/db2/dcsso#TmpSeason1516ExTeam">
-        <rdf:type rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
-        <dcsso:games rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</dcsso:games>
-        <dcsso:goals rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</dcsso:goals>
-    </owl:NamedIndividual>
     <rdf:Description>
         <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
     </rdf:Description>
@@ -919,30 +907,18 @@
             <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
             <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation"/>
             <rdf:Description rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+            <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
-        <owl:distinctMembers rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#AttackingMidfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentralMidfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentreBack"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentreForward"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#DataCrafters"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Defender"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#DefensiveMidfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Forward"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Goalkeeper"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftBack"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftMidfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftWinger"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Midfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightBack"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightMidfielder"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightWinger"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#TmpPlayer"/>
-            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#TmpSeason1516ExTeam"/>
-        </owl:distinctMembers>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Position"/>
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation"/>
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+            <rdf:Description rdf:about="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+            <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent"/>
+        </owl:members>
     </rdf:Description>
 </rdf:RDF>
 
