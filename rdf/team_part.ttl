@@ -1,0 +1,2497 @@
+@prefix dcsso: <http://www.dei.unipd.it/db2/dcsso#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcsso:team1003 dcsso:hasParticipation dcsso:part1003s2014,
+        dcsso:part1003s2015,
+        dcsso:part1003s2016,
+        dcsso:part1003s2017,
+        dcsso:part1003s2018,
+        dcsso:part1003s2019 .
+
+dcsso:team1005 dcsso:hasParticipation dcsso:part1005s2019 .
+
+dcsso:team1010 dcsso:hasParticipation dcsso:part1010s2015,
+        dcsso:part1010s2016,
+        dcsso:part1010s2017,
+        dcsso:part1010s2018,
+        dcsso:part1010s2019 .
+
+dcsso:team1025 dcsso:hasParticipation dcsso:part1025s2015,
+        dcsso:part1025s2016,
+        dcsso:part1025s2017,
+        dcsso:part1025s2018,
+        dcsso:part1025s2019 .
+
+dcsso:team1038 dcsso:hasParticipation dcsso:part1038s2014,
+        dcsso:part1038s2015,
+        dcsso:part1038s2016,
+        dcsso:part1038s2017,
+        dcsso:part1038s2018,
+        dcsso:part1038s2019 .
+
+dcsso:team1039 dcsso:hasParticipation dcsso:part1039s2014 .
+
+dcsso:team1041 dcsso:hasParticipation dcsso:part1041s2014,
+        dcsso:part1041s2015,
+        dcsso:part1041s2016,
+        dcsso:part1041s2017,
+        dcsso:part1041s2018,
+        dcsso:part1041s2019 .
+
+dcsso:team1049 dcsso:hasParticipation dcsso:part1049s2014,
+        dcsso:part1049s2015,
+        dcsso:part1049s2016,
+        dcsso:part1049s2017,
+        dcsso:part1049s2018,
+        dcsso:part1049s2019 .
+
+dcsso:team105 dcsso:hasParticipation dcsso:part105s2015,
+        dcsso:part105s2016 .
+
+dcsso:team1050 dcsso:hasParticipation dcsso:part1050s2014,
+        dcsso:part1050s2015,
+        dcsso:part1050s2016,
+        dcsso:part1050s2017,
+        dcsso:part1050s2018,
+        dcsso:part1050s2019 .
+
+dcsso:team1082 dcsso:hasParticipation dcsso:part1082s2014,
+        dcsso:part1082s2015,
+        dcsso:part1082s2016,
+        dcsso:part1082s2017,
+        dcsso:part1082s2018,
+        dcsso:part1082s2019 .
+
+dcsso:team1084 dcsso:hasParticipation dcsso:part1084s2014,
+        dcsso:part1084s2015,
+        dcsso:part1084s2016,
+        dcsso:part1084s2017 .
+
+dcsso:team1095 dcsso:hasParticipation dcsso:part1095s2015,
+        dcsso:part1095s2017 .
+
+dcsso:team11 dcsso:hasParticipation dcsso:part11s2014,
+        dcsso:part11s2015,
+        dcsso:part11s2016,
+        dcsso:part11s2017,
+        dcsso:part11s2018,
+        dcsso:part11s2019 .
+
+dcsso:team1108 dcsso:hasParticipation dcsso:part1108s2016,
+        dcsso:part1108s2017,
+        dcsso:part1108s2018,
+        dcsso:part1108s2019 .
+
+dcsso:team1110 dcsso:hasParticipation dcsso:part1110s2017,
+        dcsso:part1110s2018 .
+
+dcsso:team1123 dcsso:hasParticipation dcsso:part1123s2015,
+        dcsso:part1123s2019 .
+
+dcsso:team1132 dcsso:hasParticipation dcsso:part1132s2014,
+        dcsso:part1132s2016,
+        dcsso:part1132s2017,
+        dcsso:part1132s2018,
+        dcsso:part1132s2019 .
+
+dcsso:team1158 dcsso:hasParticipation dcsso:part1158s2014,
+        dcsso:part1158s2015,
+        dcsso:part1158s2016 .
+
+dcsso:team1159 dcsso:hasParticipation dcsso:part1159s2016 .
+
+dcsso:team1160 dcsso:hasParticipation dcsso:part1160s2018,
+        dcsso:part1160s2019 .
+
+dcsso:team1162 dcsso:hasParticipation dcsso:part1162s2014,
+        dcsso:part1162s2015,
+        dcsso:part1162s2016,
+        dcsso:part1162s2017,
+        dcsso:part1162s2018 .
+
+dcsso:team12 dcsso:hasParticipation dcsso:part12s2014,
+        dcsso:part12s2015,
+        dcsso:part12s2016,
+        dcsso:part12s2017,
+        dcsso:part12s2018,
+        dcsso:part12s2019 .
+
+dcsso:team12321 dcsso:hasParticipation dcsso:part12321s2017,
+        dcsso:part12321s2018 .
+
+dcsso:team1237 dcsso:hasParticipation dcsso:part1237s2017,
+        dcsso:part1237s2018,
+        dcsso:part1237s2019 .
+
+dcsso:team1244 dcsso:hasParticipation dcsso:part1244s2016,
+        dcsso:part1244s2017,
+        dcsso:part1244s2018,
+        dcsso:part1244s2019 .
+
+dcsso:team127 dcsso:hasParticipation dcsso:part127s2014,
+        dcsso:part127s2019 .
+
+dcsso:team13 dcsso:hasParticipation dcsso:part13s2014,
+        dcsso:part13s2015,
+        dcsso:part13s2016,
+        dcsso:part13s2017,
+        dcsso:part13s2018,
+        dcsso:part13s2019 .
+
+dcsso:team130 dcsso:hasParticipation dcsso:part130s2014,
+        dcsso:part130s2018,
+        dcsso:part130s2019 .
+
+dcsso:team131 dcsso:hasParticipation dcsso:part131s2014,
+        dcsso:part131s2015,
+        dcsso:part131s2016,
+        dcsso:part131s2017,
+        dcsso:part131s2018,
+        dcsso:part131s2019 .
+
+dcsso:team1390 dcsso:hasParticipation dcsso:part1390s2014,
+        dcsso:part1390s2016,
+        dcsso:part1390s2017,
+        dcsso:part1390s2018,
+        dcsso:part1390s2019 .
+
+dcsso:team1416 dcsso:hasParticipation dcsso:part1416s2017,
+        dcsso:part1416s2018,
+        dcsso:part1416s2019 .
+
+dcsso:team14171 dcsso:hasParticipation dcsso:part14171s2014 .
+
+dcsso:team1420 dcsso:hasParticipation dcsso:part1420s2015,
+        dcsso:part1420s2016,
+        dcsso:part1420s2017,
+        dcsso:part1420s2018,
+        dcsso:part1420s2019 .
+
+dcsso:team1421 dcsso:hasParticipation dcsso:part1421s2014,
+        dcsso:part1421s2015,
+        dcsso:part1421s2018,
+        dcsso:part1421s2019 .
+
+dcsso:team1429 dcsso:hasParticipation dcsso:part1429s2014 .
+
+dcsso:team148 dcsso:hasParticipation dcsso:part148s2014,
+        dcsso:part148s2015,
+        dcsso:part148s2016,
+        dcsso:part148s2017,
+        dcsso:part148s2018,
+        dcsso:part148s2019 .
+
+dcsso:team15 dcsso:hasParticipation dcsso:part15s2014,
+        dcsso:part15s2015,
+        dcsso:part15s2016,
+        dcsso:part15s2017,
+        dcsso:part15s2018,
+        dcsso:part15s2019 .
+
+dcsso:team150 dcsso:hasParticipation dcsso:part150s2015,
+        dcsso:part150s2016,
+        dcsso:part150s2017,
+        dcsso:part150s2018,
+        dcsso:part150s2019 .
+
+dcsso:team1531 dcsso:hasParticipation dcsso:part1531s2014 .
+
+dcsso:team1533 dcsso:hasParticipation dcsso:part1533s2014,
+        dcsso:part1533s2015,
+        dcsso:part1533s2016,
+        dcsso:part1533s2017,
+        dcsso:part1533s2018,
+        dcsso:part1533s2019 .
+
+dcsso:team16 dcsso:hasParticipation dcsso:part16s2014,
+        dcsso:part16s2015,
+        dcsso:part16s2016,
+        dcsso:part16s2017,
+        dcsso:part16s2018,
+        dcsso:part16s2019 .
+
+dcsso:team162 dcsso:hasParticipation dcsso:part162s2014,
+        dcsso:part162s2015,
+        dcsso:part162s2016,
+        dcsso:part162s2017,
+        dcsso:part162s2018,
+        dcsso:part162s2019 .
+
+dcsso:team167 dcsso:hasParticipation dcsso:part167s2014,
+        dcsso:part167s2015,
+        dcsso:part167s2016,
+        dcsso:part167s2017,
+        dcsso:part167s2018,
+        dcsso:part167s2019 .
+
+dcsso:team16795 dcsso:hasParticipation dcsso:part16795s2014,
+        dcsso:part16795s2015,
+        dcsso:part16795s2016,
+        dcsso:part16795s2019 .
+
+dcsso:team18 dcsso:hasParticipation dcsso:part18s2014,
+        dcsso:part18s2015,
+        dcsso:part18s2016,
+        dcsso:part18s2017,
+        dcsso:part18s2018,
+        dcsso:part18s2019 .
+
+dcsso:team180 dcsso:hasParticipation dcsso:part180s2014,
+        dcsso:part180s2015,
+        dcsso:part180s2016,
+        dcsso:part180s2017,
+        dcsso:part180s2018,
+        dcsso:part180s2019 .
+
+dcsso:team19 dcsso:hasParticipation dcsso:part19s2019 .
+
+dcsso:team2288 dcsso:hasParticipation dcsso:part2288s2014,
+        dcsso:part2288s2015,
+        dcsso:part2288s2016,
+        dcsso:part2288s2017 .
+
+dcsso:team237 dcsso:hasParticipation dcsso:part237s2019 .
+
+dcsso:team23826 dcsso:hasParticipation dcsso:part23826s2016,
+        dcsso:part23826s2017,
+        dcsso:part23826s2018,
+        dcsso:part23826s2019 .
+
+dcsso:team24 dcsso:hasParticipation dcsso:part24s2014,
+        dcsso:part24s2015,
+        dcsso:part24s2016,
+        dcsso:part24s2017,
+        dcsso:part24s2018,
+        dcsso:part24s2019 .
+
+dcsso:team244 dcsso:hasParticipation dcsso:part244s2014,
+        dcsso:part244s2015,
+        dcsso:part244s2016,
+        dcsso:part244s2017,
+        dcsso:part244s2018,
+        dcsso:part244s2019 .
+
+dcsso:team2448 dcsso:hasParticipation dcsso:part2448s2015,
+        dcsso:part2448s2016 .
+
+dcsso:team252 dcsso:hasParticipation dcsso:part252s2014,
+        dcsso:part252s2015,
+        dcsso:part252s2016,
+        dcsso:part252s2017,
+        dcsso:part252s2018,
+        dcsso:part252s2019 .
+
+dcsso:team27 dcsso:hasParticipation dcsso:part27s2014,
+        dcsso:part27s2015,
+        dcsso:part27s2016,
+        dcsso:part27s2017,
+        dcsso:part27s2018,
+        dcsso:part27s2019 .
+
+dcsso:team2722 dcsso:hasParticipation dcsso:part2722s2017,
+        dcsso:part2722s2018,
+        dcsso:part2722s2019 .
+
+dcsso:team273 dcsso:hasParticipation dcsso:part273s2014,
+        dcsso:part273s2015,
+        dcsso:part273s2016,
+        dcsso:part273s2017,
+        dcsso:part273s2018,
+        dcsso:part273s2019 .
+
+dcsso:team276 dcsso:hasParticipation dcsso:part276s2014,
+        dcsso:part276s2015,
+        dcsso:part276s2017,
+        dcsso:part276s2019 .
+
+dcsso:team281 dcsso:hasParticipation dcsso:part281s2014,
+        dcsso:part281s2015,
+        dcsso:part281s2016,
+        dcsso:part281s2017,
+        dcsso:part281s2018,
+        dcsso:part281s2019 .
+
+dcsso:team289 dcsso:hasParticipation dcsso:part289s2014,
+        dcsso:part289s2015,
+        dcsso:part289s2016 .
+
+dcsso:team29 dcsso:hasParticipation dcsso:part29s2014,
+        dcsso:part29s2015,
+        dcsso:part29s2016,
+        dcsso:part29s2017,
+        dcsso:part29s2018,
+        dcsso:part29s2019 .
+
+dcsso:team2921 dcsso:hasParticipation dcsso:part2921s2016 .
+
+dcsso:team2969 dcsso:hasParticipation dcsso:part2969s2016,
+        dcsso:part2969s2017,
+        dcsso:part2969s2018,
+        dcsso:part2969s2019 .
+
+dcsso:team3 dcsso:hasParticipation dcsso:part3s2014,
+        dcsso:part3s2015,
+        dcsso:part3s2016,
+        dcsso:part3s2017,
+        dcsso:part3s2019 .
+
+dcsso:team3008 dcsso:hasParticipation dcsso:part3008s2014,
+        dcsso:part3008s2016 .
+
+dcsso:team31 dcsso:hasParticipation dcsso:part31s2014,
+        dcsso:part31s2015,
+        dcsso:part31s2016,
+        dcsso:part31s2017,
+        dcsso:part31s2018,
+        dcsso:part31s2019 .
+
+dcsso:team33 dcsso:hasParticipation dcsso:part33s2014,
+        dcsso:part33s2015,
+        dcsso:part33s2016,
+        dcsso:part33s2017,
+        dcsso:part33s2018,
+        dcsso:part33s2019 .
+
+dcsso:team3302 dcsso:hasParticipation dcsso:part3302s2014 .
+
+dcsso:team331 dcsso:hasParticipation dcsso:part331s2016,
+        dcsso:part331s2019 .
+
+dcsso:team3368 dcsso:hasParticipation dcsso:part3368s2014,
+        dcsso:part3368s2015,
+        dcsso:part3368s2017,
+        dcsso:part3368s2018,
+        dcsso:part3368s2019 .
+
+dcsso:team347 dcsso:hasParticipation dcsso:part347s2014,
+        dcsso:part347s2016,
+        dcsso:part347s2017,
+        dcsso:part347s2019 .
+
+dcsso:team350 dcsso:hasParticipation dcsso:part350s2019 .
+
+dcsso:team3558 dcsso:hasParticipation dcsso:part3558s2015 .
+
+dcsso:team366 dcsso:hasParticipation dcsso:part366s2018,
+        dcsso:part366s2019 .
+
+dcsso:team367 dcsso:hasParticipation dcsso:part367s2014,
+        dcsso:part367s2015,
+        dcsso:part367s2018 .
+
+dcsso:team368 dcsso:hasParticipation dcsso:part368s2014,
+        dcsso:part368s2015,
+        dcsso:part368s2016,
+        dcsso:part368s2017,
+        dcsso:part368s2018,
+        dcsso:part368s2019 .
+
+dcsso:team3709 dcsso:hasParticipation dcsso:part3709s2014,
+        dcsso:part3709s2015,
+        dcsso:part3709s2017,
+        dcsso:part3709s2018,
+        dcsso:part3709s2019 .
+
+dcsso:team379 dcsso:hasParticipation dcsso:part379s2014,
+        dcsso:part379s2015,
+        dcsso:part379s2016,
+        dcsso:part379s2017,
+        dcsso:part379s2018,
+        dcsso:part379s2019 .
+
+dcsso:team38 dcsso:hasParticipation dcsso:part38s2018,
+        dcsso:part38s2019 .
+
+dcsso:team39 dcsso:hasParticipation dcsso:part39s2014,
+        dcsso:part39s2015,
+        dcsso:part39s2016,
+        dcsso:part39s2017,
+        dcsso:part39s2018,
+        dcsso:part39s2019 .
+
+dcsso:team3911 dcsso:hasParticipation dcsso:part3911s2019 .
+
+dcsso:team398 dcsso:hasParticipation dcsso:part398s2014,
+        dcsso:part398s2015,
+        dcsso:part398s2016,
+        dcsso:part398s2017,
+        dcsso:part398s2018,
+        dcsso:part398s2019 .
+
+dcsso:team4 dcsso:hasParticipation dcsso:part4s2018 .
+
+dcsso:team40 dcsso:hasParticipation dcsso:part40s2014,
+        dcsso:part40s2015,
+        dcsso:part40s2016,
+        dcsso:part40s2017,
+        dcsso:part40s2018,
+        dcsso:part40s2019 .
+
+dcsso:team405 dcsso:hasParticipation dcsso:part405s2014,
+        dcsso:part405s2015,
+        dcsso:part405s2019 .
+
+dcsso:team4083 dcsso:hasParticipation dcsso:part4083s2016,
+        dcsso:part4083s2017 .
+
+dcsso:team41 dcsso:hasParticipation dcsso:part41s2014,
+        dcsso:part41s2015,
+        dcsso:part41s2016,
+        dcsso:part41s2017 .
+
+dcsso:team410 dcsso:hasParticipation dcsso:part410s2014,
+        dcsso:part410s2015,
+        dcsso:part410s2016,
+        dcsso:part410s2017,
+        dcsso:part410s2018,
+        dcsso:part410s2019 .
+
+dcsso:team4102 dcsso:hasParticipation dcsso:part4102s2015 .
+
+dcsso:team415 dcsso:hasParticipation dcsso:part415s2014,
+        dcsso:part415s2015,
+        dcsso:part415s2016,
+        dcsso:part415s2017,
+        dcsso:part415s2018,
+        dcsso:part415s2019 .
+
+dcsso:team416 dcsso:hasParticipation dcsso:part416s2014,
+        dcsso:part416s2015,
+        dcsso:part416s2016,
+        dcsso:part416s2017,
+        dcsso:part416s2018,
+        dcsso:part416s2019 .
+
+dcsso:team417 dcsso:hasParticipation dcsso:part417s2014,
+        dcsso:part417s2015,
+        dcsso:part417s2016,
+        dcsso:part417s2017,
+        dcsso:part417s2018,
+        dcsso:part417s2019 .
+
+dcsso:team4171 dcsso:hasParticipation dcsso:part4171s2017 .
+
+dcsso:team418 dcsso:hasParticipation dcsso:part418s2014,
+        dcsso:part418s2015,
+        dcsso:part418s2016,
+        dcsso:part418s2017,
+        dcsso:part418s2018,
+        dcsso:part418s2019 .
+
+dcsso:team42 dcsso:hasParticipation dcsso:part42s2014,
+        dcsso:part42s2015,
+        dcsso:part42s2017,
+        dcsso:part42s2018 .
+
+dcsso:team430 dcsso:hasParticipation dcsso:part430s2014,
+        dcsso:part430s2015,
+        dcsso:part430s2016,
+        dcsso:part430s2017,
+        dcsso:part430s2018,
+        dcsso:part430s2019 .
+
+dcsso:team44 dcsso:hasParticipation dcsso:part44s2014,
+        dcsso:part44s2015,
+        dcsso:part44s2016,
+        dcsso:part44s2017,
+        dcsso:part44s2018,
+        dcsso:part44s2019 .
+
+dcsso:team458 dcsso:hasParticipation dcsso:part458s2014,
+        dcsso:part458s2015,
+        dcsso:part458s2016 .
+
+dcsso:team46 dcsso:hasParticipation dcsso:part46s2014,
+        dcsso:part46s2015,
+        dcsso:part46s2016,
+        dcsso:part46s2017,
+        dcsso:part46s2018,
+        dcsso:part46s2019 .
+
+dcsso:team472 dcsso:hasParticipation dcsso:part472s2015,
+        dcsso:part472s2016,
+        dcsso:part472s2017 .
+
+dcsso:team4795 dcsso:hasParticipation dcsso:part4795s2015,
+        dcsso:part4795s2016 .
+
+dcsso:team5 dcsso:hasParticipation dcsso:part5s2014,
+        dcsso:part5s2015,
+        dcsso:part5s2016,
+        dcsso:part5s2017,
+        dcsso:part5s2018,
+        dcsso:part5s2019 .
+
+dcsso:team506 dcsso:hasParticipation dcsso:part506s2014,
+        dcsso:part506s2015,
+        dcsso:part506s2016,
+        dcsso:part506s2017,
+        dcsso:part506s2018,
+        dcsso:part506s2019 .
+
+dcsso:team512 dcsso:hasParticipation dcsso:part512s2014,
+        dcsso:part512s2015,
+        dcsso:part512s2016,
+        dcsso:part512s2017 .
+
+dcsso:team533 dcsso:hasParticipation dcsso:part533s2014,
+        dcsso:part533s2015,
+        dcsso:part533s2016,
+        dcsso:part533s2017,
+        dcsso:part533s2018,
+        dcsso:part533s2019 .
+
+dcsso:team5358 dcsso:hasParticipation dcsso:part5358s2018 .
+
+dcsso:team543 dcsso:hasParticipation dcsso:part543s2018,
+        dcsso:part543s2019 .
+
+dcsso:team583 dcsso:hasParticipation dcsso:part583s2014,
+        dcsso:part583s2015,
+        dcsso:part583s2016,
+        dcsso:part583s2017,
+        dcsso:part583s2018,
+        dcsso:part583s2019 .
+
+dcsso:team595 dcsso:hasParticipation dcsso:part595s2014,
+        dcsso:part595s2015,
+        dcsso:part595s2016 .
+
+dcsso:team60 dcsso:hasParticipation dcsso:part60s2014,
+        dcsso:part60s2016,
+        dcsso:part60s2017,
+        dcsso:part60s2018,
+        dcsso:part60s2019 .
+
+dcsso:team603 dcsso:hasParticipation dcsso:part603s2018 .
+
+dcsso:team618 dcsso:hasParticipation dcsso:part618s2014,
+        dcsso:part618s2015,
+        dcsso:part618s2016,
+        dcsso:part618s2017,
+        dcsso:part618s2018,
+        dcsso:part618s2019 .
+
+dcsso:team6195 dcsso:hasParticipation dcsso:part6195s2014,
+        dcsso:part6195s2015,
+        dcsso:part6195s2016,
+        dcsso:part6195s2017,
+        dcsso:part6195s2018,
+        dcsso:part6195s2019 .
+
+dcsso:team621 dcsso:hasParticipation dcsso:part621s2014,
+        dcsso:part621s2015,
+        dcsso:part621s2016,
+        dcsso:part621s2017,
+        dcsso:part621s2018,
+        dcsso:part621s2019 .
+
+dcsso:team631 dcsso:hasParticipation dcsso:part631s2014,
+        dcsso:part631s2015,
+        dcsso:part631s2016,
+        dcsso:part631s2017,
+        dcsso:part631s2018,
+        dcsso:part631s2019 .
+
+dcsso:team641 dcsso:hasParticipation dcsso:part641s2016 .
+
+dcsso:team6574 dcsso:hasParticipation dcsso:part6574s2014,
+        dcsso:part6574s2015,
+        dcsso:part6574s2016,
+        dcsso:part6574s2017,
+        dcsso:part6574s2018,
+        dcsso:part6574s2019 .
+
+dcsso:team667 dcsso:hasParticipation dcsso:part667s2017,
+        dcsso:part667s2018,
+        dcsso:part667s2019 .
+
+dcsso:team681 dcsso:hasParticipation dcsso:part681s2014,
+        dcsso:part681s2015,
+        dcsso:part681s2016,
+        dcsso:part681s2017,
+        dcsso:part681s2018,
+        dcsso:part681s2019 .
+
+dcsso:team714 dcsso:hasParticipation dcsso:part714s2014,
+        dcsso:part714s2015,
+        dcsso:part714s2016,
+        dcsso:part714s2017,
+        dcsso:part714s2018,
+        dcsso:part714s2019 .
+
+dcsso:team749 dcsso:hasParticipation dcsso:part749s2014,
+        dcsso:part749s2015,
+        dcsso:part749s2016,
+        dcsso:part749s2018 .
+
+dcsso:team762 dcsso:hasParticipation dcsso:part762s2014,
+        dcsso:part762s2015,
+        dcsso:part762s2017,
+        dcsso:part762s2018,
+        dcsso:part762s2019 .
+
+dcsso:team79 dcsso:hasParticipation dcsso:part79s2014,
+        dcsso:part79s2015,
+        dcsso:part79s2017,
+        dcsso:part79s2018 .
+
+dcsso:team800 dcsso:hasParticipation dcsso:part800s2014,
+        dcsso:part800s2015,
+        dcsso:part800s2016,
+        dcsso:part800s2017,
+        dcsso:part800s2018,
+        dcsso:part800s2019 .
+
+dcsso:team82 dcsso:hasParticipation dcsso:part82s2014,
+        dcsso:part82s2015,
+        dcsso:part82s2016,
+        dcsso:part82s2017,
+        dcsso:part82s2018,
+        dcsso:part82s2019 .
+
+dcsso:team826 dcsso:hasParticipation dcsso:part826s2014 .
+
+dcsso:team855 dcsso:hasParticipation dcsso:part855s2014,
+        dcsso:part855s2015,
+        dcsso:part855s2016,
+        dcsso:part855s2017,
+        dcsso:part855s2018 .
+
+dcsso:team86 dcsso:hasParticipation dcsso:part86s2014,
+        dcsso:part86s2015,
+        dcsso:part86s2016,
+        dcsso:part86s2017,
+        dcsso:part86s2018,
+        dcsso:part86s2019 .
+
+dcsso:team862 dcsso:hasParticipation dcsso:part862s2014,
+        dcsso:part862s2015,
+        dcsso:part862s2016,
+        dcsso:part862s2017,
+        dcsso:part862s2018 .
+
+dcsso:team873 dcsso:hasParticipation dcsso:part873s2014,
+        dcsso:part873s2015,
+        dcsso:part873s2016,
+        dcsso:part873s2017,
+        dcsso:part873s2018,
+        dcsso:part873s2019 .
+
+dcsso:team89 dcsso:hasParticipation dcsso:part89s2019 .
+
+dcsso:team897 dcsso:hasParticipation dcsso:part897s2014,
+        dcsso:part897s2015,
+        dcsso:part897s2016,
+        dcsso:part897s2017 .
+
+dcsso:team8970 dcsso:hasParticipation dcsso:part8970s2015,
+        dcsso:part8970s2018 .
+
+dcsso:team931 dcsso:hasParticipation dcsso:part931s2018 .
+
+dcsso:team940 dcsso:hasParticipation dcsso:part940s2014,
+        dcsso:part940s2015,
+        dcsso:part940s2016,
+        dcsso:part940s2017,
+        dcsso:part940s2018,
+        dcsso:part940s2019 .
+
+dcsso:team969 dcsso:hasParticipation dcsso:part969s2014,
+        dcsso:part969s2015,
+        dcsso:part969s2016,
+        dcsso:part969s2017,
+        dcsso:part969s2018,
+        dcsso:part969s2019 .
+
+dcsso:team984 dcsso:hasParticipation dcsso:part984s2014,
+        dcsso:part984s2015,
+        dcsso:part984s2016,
+        dcsso:part984s2017 .
+
+dcsso:team985 dcsso:hasParticipation dcsso:part985s2014,
+        dcsso:part985s2015,
+        dcsso:part985s2016,
+        dcsso:part985s2017,
+        dcsso:part985s2018,
+        dcsso:part985s2019 .
+
+dcsso:team989 dcsso:hasParticipation dcsso:part989s2015,
+        dcsso:part989s2016,
+        dcsso:part989s2017,
+        dcsso:part989s2018,
+        dcsso:part989s2019 .
+
+dcsso:team993 dcsso:hasParticipation dcsso:part993s2014 .
+
+dcsso:team995 dcsso:hasParticipation dcsso:part995s2014,
+        dcsso:part995s2015,
+        dcsso:part995s2016,
+        dcsso:part995s2017,
+        dcsso:part995s2018,
+        dcsso:part995s2019 .
+
+dcsso:part1003s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1003s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1003s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1003s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1003s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1003s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1005s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1010s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1010s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1010s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1010s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1010s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1025s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1025s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1025s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1025s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1025s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1038s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1038s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1038s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1038s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1038s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1038s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1039s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1041s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1041s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1041s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1041s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1041s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1041s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1049s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1049s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1049s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1049s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1049s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1049s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1050s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1050s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1050s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1050s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1050s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1050s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part105s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part105s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1082s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1082s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1082s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1082s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1082s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1082s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1084s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1084s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1084s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1084s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1095s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1095s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1108s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1108s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1108s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1108s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1110s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1110s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1123s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1123s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1132s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1132s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1132s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1132s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1132s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1158s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1158s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1158s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1159s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1160s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1160s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1162s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1162s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1162s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1162s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1162s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part11s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part11s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part11s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part11s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part11s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part11s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part12321s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part12321s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1237s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1237s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1237s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1244s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1244s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1244s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1244s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part127s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part127s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part12s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part12s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part12s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part12s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part12s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part12s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part130s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part130s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part130s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part131s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part131s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part131s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part131s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part131s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part131s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1390s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1390s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1390s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1390s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1390s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part13s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part13s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part13s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part13s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part13s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part13s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1416s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1416s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1416s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part14171s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1420s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1420s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1420s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1420s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1420s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1421s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1421s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1421s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1421s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1429s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part148s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part148s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part148s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part148s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part148s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part148s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part150s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part150s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part150s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part150s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part150s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part1531s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1533s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part1533s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part1533s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part1533s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part1533s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part1533s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part15s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part15s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part15s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part15s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part15s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part15s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part162s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part162s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part162s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part162s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part162s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part162s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part16795s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part16795s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part16795s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part16795s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part167s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part167s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part167s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part167s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part167s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part167s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part16s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part16s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part16s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part16s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part16s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part16s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part180s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part180s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part180s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part180s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part180s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part180s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part18s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part18s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part18s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part18s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part18s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part18s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part19s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part2288s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part2288s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part2288s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part2288s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part237s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part23826s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part23826s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part23826s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part23826s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part2448s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part2448s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part244s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part244s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part244s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part244s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part244s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part244s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part24s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part24s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part24s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part24s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part24s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part24s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part252s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part252s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part252s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part252s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part252s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part252s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part2722s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part2722s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part2722s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part273s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part273s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part273s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part273s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part273s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part273s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part276s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part276s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part276s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part276s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part27s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part27s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part27s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part27s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part27s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part27s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part281s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part281s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part281s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part281s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part281s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part281s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part289s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part289s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part289s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part2921s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part2969s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part2969s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part2969s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part2969s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part29s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part29s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part29s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part29s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part29s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part29s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3008s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part3008s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part31s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part31s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part31s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part31s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part31s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part31s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3302s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part331s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part331s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3368s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part3368s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part3368s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part3368s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part3368s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part33s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part33s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part33s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part33s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part33s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part33s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part347s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part347s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part347s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part347s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part350s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3558s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part366s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part366s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part367s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part367s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part367s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part368s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part368s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part368s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part368s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part368s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part368s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3709s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part3709s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part3709s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part3709s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part3709s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part379s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part379s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part379s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part379s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part379s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part379s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part38s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part38s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3911s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part398s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part398s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part398s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part398s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part398s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part398s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part39s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part39s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part39s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part39s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part39s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part39s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part3s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part3s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part3s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part3s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part3s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part405s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part405s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part405s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part4083s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part4083s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part40s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part40s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part40s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part40s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part40s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part40s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part4102s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part410s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part410s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part410s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part410s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part410s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part410s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part415s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part415s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part415s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part415s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part415s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part415s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part416s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part416s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part416s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part416s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part416s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part416s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part4171s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part417s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part417s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part417s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part417s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part417s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part417s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part418s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part418s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part418s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part418s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part418s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part418s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part41s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part41s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part41s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part41s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part42s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part42s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part42s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part42s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part430s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part430s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part430s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part430s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part430s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part430s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part44s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part44s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part44s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part44s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part44s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part44s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part458s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part458s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part458s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part46s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part46s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part46s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part46s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part46s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part46s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part472s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part472s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part472s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part4795s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part4795s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part4s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part506s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part506s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part506s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part506s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part506s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part506s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part512s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part512s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part512s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part512s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part533s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part533s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part533s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part533s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part533s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part533s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part5358s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part543s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part543s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part583s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part583s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part583s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part583s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part583s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part583s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part595s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part595s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part595s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part5s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part5s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part5s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part5s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part5s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part5s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part603s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part60s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part60s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part60s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part60s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part60s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part618s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part618s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part618s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part618s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part618s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part618s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part6195s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part6195s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part6195s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part6195s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part6195s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part6195s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part621s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part621s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part621s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part621s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part621s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part621s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part631s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part631s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part631s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part631s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part631s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part631s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part641s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part6574s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part6574s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part6574s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part6574s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part6574s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part6574s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part667s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part667s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part667s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part681s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part681s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part681s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part681s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part681s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part681s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part714s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part714s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part714s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part714s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part714s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part714s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part749s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part749s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part749s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part749s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part762s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part762s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part762s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part762s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part762s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part79s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part79s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part79s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part79s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part800s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part800s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part800s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part800s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part800s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part800s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part826s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part82s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part82s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part82s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part82s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part82s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part82s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part855s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part855s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part855s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part855s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part855s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part862s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part862s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part862s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part862s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part862s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part86s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part86s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part86s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part86s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part86s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part86s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part873s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part873s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part873s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part873s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part873s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part873s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part8970s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part8970s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part897s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part897s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part897s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part897s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part89s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part931s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part940s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part940s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part940s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part940s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part940s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part940s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part969s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part969s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part969s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part969s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part969s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part969s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part984s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part984s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part984s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part984s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part985s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part985s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part985s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part985s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part985s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part985s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part989s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part989s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part989s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part989s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part989s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
+dcsso:part993s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part995s2014 a dcsso:SeasonalParticipation ;
+    dcsso:season "2014"^^xsd:int .
+
+dcsso:part995s2015 a dcsso:SeasonalParticipation ;
+    dcsso:season "2015"^^xsd:int .
+
+dcsso:part995s2016 a dcsso:SeasonalParticipation ;
+    dcsso:season "2016"^^xsd:int .
+
+dcsso:part995s2017 a dcsso:SeasonalParticipation ;
+    dcsso:season "2017"^^xsd:int .
+
+dcsso:part995s2018 a dcsso:SeasonalParticipation ;
+    dcsso:season "2018"^^xsd:int .
+
+dcsso:part995s2019 a dcsso:SeasonalParticipation ;
+    dcsso:season "2019"^^xsd:int .
+
