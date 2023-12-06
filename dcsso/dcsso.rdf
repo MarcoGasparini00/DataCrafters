@@ -424,6 +424,17 @@
     
 
 
+    <!-- http://www.dei.unipd.it/db2/dcsso#tmValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#tmValue">
+        <rdfs:domain rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:comment>The Transfermarkt value, in euros, associated to a player during a specific season.</rdfs:comment>
+        <rdfs:seeAlso>https://www.transfermarkt.it/</rdfs:seeAlso>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.dei.unipd.it/db2/dcsso#wins -->
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#wins">

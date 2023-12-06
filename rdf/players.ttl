@@ -10261,6 +10261,16 @@ dcsso:player170838 a dcsso:Footballer ;
     foaf:firstName "Salih"^^xsd:string ;
     foaf:name "Salih Ucan"^^xsd:string .
 
+dcsso:player170895 a dcsso:Footballer ;
+    dcsso:birthdate "1990"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:CV ;
+    dcsso:height "173.0"^^xsd:int ;
+    dcsso:position dcsso:Forward ;
+    dcsso:subPosition dcsso:LeftWinger ;
+    foaf:familyName "Rodrigues"^^xsd:string ;
+    foaf:firstName "Garry"^^xsd:string ;
+    foaf:name "Garry Rodrigues"^^xsd:string .
+
 dcsso:player170903 a dcsso:Footballer ;
     dcsso:birthdate "1992"^^xsd:int ;
     dcsso:hasCitizenship dcsso:BF ;
@@ -14774,6 +14784,15 @@ dcsso:player20003 a dcsso:Footballer ;
     foaf:firstName "Matias"^^xsd:string ;
     foaf:name "Matias Silvestre"^^xsd:string .
 
+dcsso:player20005 a dcsso:Footballer ;
+    dcsso:birthdate "1988"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:AR ;
+    dcsso:height "167.0"^^xsd:int ;
+    dcsso:position dcsso:Forward ;
+    dcsso:subPosition dcsso:LeftWinger ;
+    foaf:familyName "Papu Gomez"^^xsd:string ;
+    foaf:name "Papu Gomez"^^xsd:string .
+
 dcsso:player200056 a dcsso:Footballer ;
     dcsso:birthdate "1994"^^xsd:int ;
     dcsso:hasCitizenship dcsso:AL ;
@@ -15984,6 +16003,16 @@ dcsso:player210143 a dcsso:Footballer ;
     foaf:familyName "Gallar"^^xsd:string ;
     foaf:firstName "Alex"^^xsd:string ;
     foaf:name "Alex Gallar"^^xsd:string .
+
+dcsso:player210153 a dcsso:Footballer ;
+    dcsso:birthdate "1989"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:ES ;
+    dcsso:height "181.0"^^xsd:int ;
+    dcsso:position dcsso:Midfielder ;
+    dcsso:subPosition dcsso:CentralMidfielder ;
+    foaf:familyName "Martin"^^xsd:string ;
+    foaf:firstName "Alberto"^^xsd:string ;
+    foaf:name "Alberto Martin"^^xsd:string .
 
 dcsso:player210158 a dcsso:Footballer ;
     dcsso:birthdate "1991"^^xsd:int ;
@@ -38460,6 +38489,16 @@ dcsso:player413403 a dcsso:Footballer ;
     foaf:firstName "Ezri"^^xsd:string ;
     foaf:name "Ezri Konsa"^^xsd:string .
 
+dcsso:player413502 a dcsso:Footballer ;
+    dcsso:birthdate "1996"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:ES ;
+    dcsso:height "171.0"^^xsd:int ;
+    dcsso:position dcsso:Forward ;
+    dcsso:subPosition dcsso:RightWinger ;
+    foaf:familyName "Pinchi"^^xsd:string ;
+    foaf:firstName "Oscar"^^xsd:string ;
+    foaf:name "Oscar Pinchi"^^xsd:string .
+
 dcsso:player413507 a dcsso:Footballer ;
     dcsso:birthdate "1997"^^xsd:int ;
     dcsso:hasCitizenship dcsso:RS ;
@@ -41473,6 +41512,16 @@ dcsso:player459452 a dcsso:Footballer ;
     foaf:firstName "Riccardo"^^xsd:string ;
     foaf:name "Riccardo Ladinetti"^^xsd:string .
 
+dcsso:player459463 a dcsso:Footballer ;
+    dcsso:birthdate "1999"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:CO ;
+    dcsso:height "176.0"^^xsd:int ;
+    dcsso:position dcsso:Forward ;
+    dcsso:subPosition dcsso:CentreForward ;
+    foaf:familyName "Hernandez"^^xsd:string ;
+    foaf:firstName "Cucho"^^xsd:string ;
+    foaf:name "Cucho Hernandez"^^xsd:string .
+
 dcsso:player459504 a dcsso:Footballer ;
     dcsso:birthdate "2001"^^xsd:int ;
     dcsso:hasCitizenship dcsso:IT ;
@@ -43568,16 +43617,6 @@ dcsso:player503795 a dcsso:Footballer ;
     foaf:familyName "Ngakia"^^xsd:string ;
     foaf:firstName "Jeremy"^^xsd:string ;
     foaf:name "Jeremy Ngakia"^^xsd:string .
-
-dcsso:player504104 a dcsso:Footballer ;
-    dcsso:birthdate "2002"^^xsd:int ;
-    dcsso:hasCitizenship dcsso:MX ;
-    dcsso:height "185.0"^^xsd:int ;
-    dcsso:position dcsso:Defender ;
-    dcsso:subPosition dcsso:CentreBack ;
-    foaf:familyName "Gomez"^^xsd:string ;
-    foaf:firstName "Alejandro"^^xsd:string ;
-    foaf:name "Alejandro Gomez"^^xsd:string .
 
 dcsso:player504125 a dcsso:Footballer ;
     dcsso:birthdate "1995"^^xsd:int ;
