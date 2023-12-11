@@ -36,6 +36,7 @@ dcsso:player103547 dcsso:hasMembership dcsso:memb103547s2015t41 .
 dcsso:player103563 dcsso:hasMembership dcsso:memb103563s2015t415 .
 
 dcsso:player103565 dcsso:hasMembership dcsso:memb103565s2015t289,
+        dcsso:memb103565s2015t289_40,
         dcsso:memb103565s2015t40 .
 
 dcsso:player10375 dcsso:hasMembership dcsso:memb10375s2015t989 .
@@ -55,6 +56,7 @@ dcsso:player105388 dcsso:hasMembership dcsso:memb105388s2015t1095 .
 dcsso:player105456 dcsso:hasMembership dcsso:memb105456s2015t1038 .
 
 dcsso:player105521 dcsso:hasMembership dcsso:memb105521s2015t368,
+        dcsso:memb105521s2015t368_416,
         dcsso:memb105521s2015t416 .
 
 dcsso:player105892 dcsso:hasMembership dcsso:memb105892s2015t862 .
@@ -456,6 +458,7 @@ dcsso:player127177 dcsso:hasMembership dcsso:memb127177s2015t39 .
 dcsso:player127181 dcsso:hasMembership dcsso:memb127181s2015t1158 .
 
 dcsso:player127187 dcsso:hasMembership dcsso:memb127187s2015t16795,
+        dcsso:memb127187s2015t16795_273,
         dcsso:memb127187s2015t273 .
 
 dcsso:player127188 dcsso:hasMembership dcsso:memb127188s2015t995 .
@@ -533,6 +536,7 @@ dcsso:player130164 dcsso:hasMembership dcsso:memb130164s2015t289 .
 dcsso:player130348 dcsso:hasMembership dcsso:memb130348s2015t8970 .
 
 dcsso:player130360 dcsso:hasMembership dcsso:memb130360s2015t1533,
+        dcsso:memb130360s2015t1533_4102,
         dcsso:memb130360s2015t4102 .
 
 dcsso:player130365 dcsso:hasMembership dcsso:memb130365s2015t12 .
@@ -696,7 +700,8 @@ dcsso:player141834 dcsso:hasMembership dcsso:memb141834s2015t430 .
 dcsso:player141835 dcsso:hasMembership dcsso:memb141835s2015t3709 .
 
 dcsso:player142021 dcsso:hasMembership dcsso:memb142021s2015t1041,
-        dcsso:memb142021s2015t1084 .
+        dcsso:memb142021s2015t1084,
+        dcsso:memb142021s2015t1084_1041 .
 
 dcsso:player142031 dcsso:hasMembership dcsso:memb142031s2015t2448 .
 
@@ -999,7 +1004,8 @@ dcsso:player165722 dcsso:hasMembership dcsso:memb165722s2015t4102 .
 dcsso:player165724 dcsso:hasMembership dcsso:memb165724s2015t4102 .
 
 dcsso:player165873 dcsso:hasMembership dcsso:memb165873s2015t749,
-        dcsso:memb165873s2015t79 .
+        dcsso:memb165873s2015t79,
+        dcsso:memb165873s2015t79_749 .
 
 dcsso:player165895 dcsso:hasMembership dcsso:memb165895s2015t6574 .
 
@@ -1112,7 +1118,8 @@ dcsso:player170903 dcsso:hasMembership dcsso:memb170903s2015t415 .
 dcsso:player170929 dcsso:hasMembership dcsso:memb170929s2015t762 .
 
 dcsso:player170934 dcsso:hasMembership dcsso:memb170934s2015t244,
-        dcsso:memb170934s2015t506 .
+        dcsso:memb170934s2015t506,
+        dcsso:memb170934s2015t506_244 .
 
 dcsso:player170957 dcsso:hasMembership dcsso:memb170957s2015t417 .
 
@@ -1139,7 +1146,8 @@ dcsso:player17179 dcsso:hasMembership dcsso:memb17179s2015t1082 .
 dcsso:player172168 dcsso:hasMembership dcsso:memb172168s2015t44 .
 
 dcsso:player172181 dcsso:hasMembership dcsso:memb172181s2015t252,
-        dcsso:memb172181s2015t368 .
+        dcsso:memb172181s2015t368,
+        dcsso:memb172181s2015t368_252 .
 
 dcsso:player17249 dcsso:hasMembership dcsso:memb17249s2015t862 .
 
@@ -1208,7 +1216,8 @@ dcsso:player177476 dcsso:hasMembership dcsso:memb177476s2015t1010 .
 dcsso:player177843 dcsso:hasMembership dcsso:memb177843s2015t6574 .
 
 dcsso:player177847 dcsso:hasMembership dcsso:memb177847s2015t16,
-        dcsso:memb177847s2015t985 .
+        dcsso:memb177847s2015t985,
+        dcsso:memb177847s2015t985_16 .
 
 dcsso:player177862 dcsso:hasMembership dcsso:memb177862s2015t150 .
 
@@ -1253,7 +1262,8 @@ dcsso:player181378 dcsso:hasMembership dcsso:memb181378s2015t40 .
 dcsso:player181382 dcsso:hasMembership dcsso:memb181382s2015t995 .
 
 dcsso:player181477 dcsso:hasMembership dcsso:memb181477s2015t1421,
-        dcsso:memb181477s2015t16795 .
+        dcsso:memb181477s2015t16795,
+        dcsso:memb181477s2015t16795_1421 .
 
 dcsso:player181579 dcsso:hasMembership dcsso:memb181579s2015t180 .
 
@@ -1276,7 +1286,8 @@ dcsso:player182813 dcsso:hasMembership dcsso:memb182813s2015t415 .
 dcsso:player182814 dcsso:hasMembership dcsso:memb182814s2015t417 .
 
 dcsso:player182877 dcsso:hasMembership dcsso:memb182877s2015t162,
-        dcsso:memb182877s2015t985 .
+        dcsso:memb182877s2015t985,
+        dcsso:memb182877s2015t985_162 .
 
 dcsso:player182893 dcsso:hasMembership dcsso:memb182893s2015t595 .
 
@@ -1291,7 +1302,8 @@ dcsso:player182913 dcsso:hasMembership dcsso:memb182913s2015t583 .
 dcsso:player182916 dcsso:hasMembership dcsso:memb182916s2015t273 .
 
 dcsso:player182963 dcsso:hasMembership dcsso:memb182963s2015t1421,
-        dcsso:memb182963s2015t367 .
+        dcsso:memb182963s2015t367,
+        dcsso:memb182963s2015t367_1421 .
 
 dcsso:player18298 dcsso:hasMembership dcsso:memb18298s2015t1420 .
 
@@ -1326,7 +1338,8 @@ dcsso:player184528 dcsso:hasMembership dcsso:memb184528s2015t1025 .
 dcsso:player184672 dcsso:hasMembership dcsso:memb184672s2015t162 .
 
 dcsso:player184892 dcsso:hasMembership dcsso:memb184892s2015t244,
-        dcsso:memb184892s2015t762 .
+        dcsso:memb184892s2015t762,
+        dcsso:memb184892s2015t762_244 .
 
 dcsso:player184894 dcsso:hasMembership dcsso:memb184894s2015t6574 .
 
@@ -1433,6 +1446,7 @@ dcsso:player190804 dcsso:hasMembership dcsso:memb190804s2015t458 .
 dcsso:player19085 dcsso:hasMembership dcsso:memb19085s2015t873 .
 
 dcsso:player19104 dcsso:hasMembership dcsso:memb19104s2015t3368,
+        dcsso:memb19104s2015t3368_430,
         dcsso:memb19104s2015t430 .
 
 dcsso:player19112 dcsso:hasMembership dcsso:memb19112s2015t79 .
@@ -1952,6 +1966,7 @@ dcsso:player231614 dcsso:hasMembership dcsso:memb231614s2015t430_276 .
 dcsso:player231941 dcsso:hasMembership dcsso:memb231941s2015t3558 .
 
 dcsso:player23197 dcsso:hasMembership dcsso:memb23197s2015t1010,
+        dcsso:memb23197s2015t1010_800,
         dcsso:memb23197s2015t800 .
 
 dcsso:player232144 dcsso:hasMembership dcsso:memb232144s2015t27 .
@@ -1965,6 +1980,7 @@ dcsso:player232454 dcsso:hasMembership dcsso:memb232454s2015t533 .
 dcsso:player23284 dcsso:hasMembership dcsso:memb23284s2015t430 .
 
 dcsso:player23287 dcsso:hasMembership dcsso:memb23287s2015t367,
+        dcsso:memb23287s2015t367_418,
         dcsso:memb23287s2015t418 .
 
 dcsso:player23338 dcsso:hasMembership dcsso:memb23338s2015t1533 .
@@ -2070,6 +2086,7 @@ dcsso:player243541 dcsso:hasMembership dcsso:memb243541s2015t3368 .
 dcsso:player243589 dcsso:hasMembership dcsso:memb243589s2015t148 .
 
 dcsso:player243714 dcsso:hasMembership dcsso:memb243714s2015t27,
+        dcsso:memb243714s2015t27_506,
         dcsso:memb243714s2015t506 .
 
 dcsso:player243725 dcsso:hasMembership dcsso:memb243725s2015t1041 .
@@ -2099,7 +2116,8 @@ dcsso:player246277 dcsso:hasMembership dcsso:memb246277s2015t714 .
 dcsso:player246291 dcsso:hasMembership dcsso:memb246291s2015t367 .
 
 dcsso:player24661 dcsso:hasMembership dcsso:memb24661s2015t1041,
-        dcsso:memb24661s2015t398 .
+        dcsso:memb24661s2015t398,
+        dcsso:memb24661s2015t398_1041 .
 
 dcsso:player246877 dcsso:hasMembership dcsso:memb246877s2015t2448 .
 
@@ -2286,6 +2304,7 @@ dcsso:player26399 dcsso:hasMembership dcsso:memb26399s2015t281 .
 dcsso:player26443 dcsso:hasMembership dcsso:memb26443s2015t897 .
 
 dcsso:player26456 dcsso:hasMembership dcsso:memb26456s2015t379,
+        dcsso:memb26456s2015t379_430,
         dcsso:memb26456s2015t430 .
 
 dcsso:player264567 dcsso:hasMembership dcsso:memb264567s2015t1082 .
@@ -2341,6 +2360,7 @@ dcsso:player27300 dcsso:hasMembership dcsso:memb27300s2015t244 .
 dcsso:player27305 dcsso:hasMembership dcsso:memb27305s2015t417 .
 
 dcsso:player27306 dcsso:hasMembership dcsso:memb27306s2015t11,
+        dcsso:memb27306s2015t11_40,
         dcsso:memb27306s2015t40 .
 
 dcsso:player273438 dcsso:hasMembership dcsso:memb273438s2015t1049 .
@@ -2402,6 +2422,7 @@ dcsso:player27992 dcsso:hasMembership dcsso:memb27992s2015t418 .
 dcsso:player28003 dcsso:hasMembership dcsso:memb28003s2015t131 .
 
 dcsso:player28005 dcsso:hasMembership dcsso:memb28005s2015t3368,
+        dcsso:memb28005s2015t3368_430,
         dcsso:memb28005s2015t430 .
 
 dcsso:player28020 dcsso:hasMembership dcsso:memb28020s2015t862 .
@@ -2965,7 +2986,8 @@ dcsso:player350219 dcsso:hasMembership dcsso:memb350219s2015t150 .
 dcsso:player3507 dcsso:hasMembership dcsso:memb3507s2015t5 .
 
 dcsso:player35099 dcsso:hasMembership dcsso:memb35099s2015t244,
-        dcsso:memb35099s2015t289 .
+        dcsso:memb35099s2015t289,
+        dcsso:memb35099s2015t289_244 .
 
 dcsso:player351478 dcsso:hasMembership dcsso:memb351478s2015t681 .
 
@@ -3036,6 +3058,7 @@ dcsso:player35562 dcsso:hasMembership dcsso:memb35562s2015t3709 .
 dcsso:player355628 dcsso:hasMembership dcsso:memb355628s2015t681 .
 
 dcsso:player35564 dcsso:hasMembership dcsso:memb35564s2015t368,
+        dcsso:memb35564s2015t368_506,
         dcsso:memb35564s2015t506 .
 
 dcsso:player356197 dcsso:hasMembership dcsso:memb356197s2015t1050 .
@@ -3089,7 +3112,8 @@ dcsso:player36356 dcsso:hasMembership dcsso:memb36356s2015t368 .
 dcsso:player36371 dcsso:hasMembership dcsso:memb36371s2015t430 .
 
 dcsso:player36500 dcsso:hasMembership dcsso:memb36500s2015t273,
-        dcsso:memb36500s2015t289 .
+        dcsso:memb36500s2015t289,
+        dcsso:memb36500s2015t289_273 .
 
 dcsso:player36608 dcsso:hasMembership dcsso:memb36608s2015t1123 .
 
@@ -3130,6 +3154,7 @@ dcsso:player37295 dcsso:hasMembership dcsso:memb37295s2015t862 .
 dcsso:player37304 dcsso:hasMembership dcsso:memb37304s2015t180 .
 
 dcsso:player37337 dcsso:hasMembership dcsso:memb37337s2015t1010,
+        dcsso:memb37337s2015t1010_430,
         dcsso:memb37337s2015t430 .
 
 dcsso:player37363 dcsso:hasMembership dcsso:memb37363s2015t289 .
@@ -3191,6 +3216,7 @@ dcsso:player38253 dcsso:hasMembership dcsso:memb38253s2015t27 .
 dcsso:player38267 dcsso:hasMembership dcsso:memb38267s2015t3 .
 
 dcsso:player38360 dcsso:hasMembership dcsso:memb38360s2015t42,
+        dcsso:memb38360s2015t42_855,
         dcsso:memb38360s2015t855 .
 
 dcsso:player3838 dcsso:hasMembership dcsso:memb3838s2015t984 .
@@ -3342,6 +3368,7 @@ dcsso:player40372 dcsso:hasMembership dcsso:memb40372s2015t430 .
 dcsso:player40423 dcsso:hasMembership dcsso:memb40423s2015t131 .
 
 dcsso:player40428 dcsso:hasMembership dcsso:memb40428s2015t367,
+        dcsso:memb40428s2015t367_410,
         dcsso:memb40428s2015t410 .
 
 dcsso:player40429 dcsso:hasMembership dcsso:memb40429s2015t39 .
@@ -3443,7 +3470,8 @@ dcsso:player42412 dcsso:hasMembership dcsso:memb42412s2015t984 .
 dcsso:player42413 dcsso:hasMembership dcsso:memb42413s2015t29 .
 
 dcsso:player42460 dcsso:hasMembership dcsso:memb42460s2015t46,
-        dcsso:memb42460s2015t82 .
+        dcsso:memb42460s2015t82,
+        dcsso:memb42460s2015t82_46 .
 
 dcsso:player42513 dcsso:hasMembership dcsso:memb42513s2015t1123 .
 
@@ -3498,7 +3526,8 @@ dcsso:player4357 dcsso:hasMembership dcsso:memb4357s2015t33 .
 dcsso:player4360 dcsso:hasMembership dcsso:memb4360s2015t27 .
 
 dcsso:player43722 dcsso:hasMembership dcsso:memb43722s2015t244,
-        dcsso:memb43722s2015t506 .
+        dcsso:memb43722s2015t506,
+        dcsso:memb43722s2015t506_244 .
 
 dcsso:player43760 dcsso:hasMembership dcsso:memb43760s2015t1025 .
 
@@ -3673,6 +3702,7 @@ dcsso:player46415 dcsso:hasMembership dcsso:memb46415s2015t1084 .
 dcsso:player46552 dcsso:hasMembership dcsso:memb46552s2015t416 .
 
 dcsso:player46580 dcsso:hasMembership dcsso:memb46580s2015t1003,
+        dcsso:memb46580s2015t1003_533,
         dcsso:memb46580s2015t533 .
 
 dcsso:player4672 dcsso:hasMembership dcsso:memb4672s2015t5 .
@@ -3776,6 +3806,7 @@ dcsso:player50219 dcsso:hasMembership dcsso:memb50219s2015t31 .
 dcsso:player5023 dcsso:hasMembership dcsso:memb5023s2015t506 .
 
 dcsso:player50303 dcsso:hasMembership dcsso:memb50303s2015t167,
+        dcsso:memb50303s2015t167_252,
         dcsso:memb50303s2015t252 .
 
 dcsso:player50362 dcsso:hasMembership dcsso:memb50362s2015t281 .
@@ -3791,7 +3822,8 @@ dcsso:player50577 dcsso:hasMembership dcsso:memb50577s2015t39 .
 dcsso:player5072 dcsso:hasMembership dcsso:memb5072s2015t3 .
 
 dcsso:player50935 dcsso:hasMembership dcsso:memb50935s2015t15,
-        dcsso:memb50935s2015t985 .
+        dcsso:memb50935s2015t985,
+        dcsso:memb50935s2015t985_15 .
 
 dcsso:player51030 dcsso:hasMembership dcsso:memb51030s2015t855 .
 
@@ -3830,7 +3862,8 @@ dcsso:player51474 dcsso:hasMembership dcsso:memb51474s2015t621 .
 dcsso:player51532 dcsso:hasMembership dcsso:memb51532s2015t621 .
 
 dcsso:player51540 dcsso:hasMembership dcsso:memb51540s2015t40,
-        dcsso:memb51540s2015t762 .
+        dcsso:memb51540s2015t762,
+        dcsso:memb51540s2015t762_40 .
 
 dcsso:player51559 dcsso:hasMembership dcsso:memb51559s2015t1533 .
 
@@ -3991,6 +4024,7 @@ dcsso:player55510 dcsso:hasMembership dcsso:memb55510s2015t33 .
 dcsso:player55519 dcsso:hasMembership dcsso:memb55519s2015t39 .
 
 dcsso:player55619 dcsso:hasMembership dcsso:memb55619s2015t1010,
+        dcsso:memb55619s2015t1010_1084,
         dcsso:memb55619s2015t1084 .
 
 dcsso:player55687 dcsso:hasMembership dcsso:memb55687s2015t1003 .
@@ -4072,6 +4106,7 @@ dcsso:player57051 dcsso:hasMembership dcsso:memb57051s2015t533 .
 dcsso:player57079 dcsso:hasMembership dcsso:memb57079s2015t289 .
 
 dcsso:player57110 dcsso:hasMembership dcsso:memb57110s2015t1025,
+        dcsso:memb57110s2015t1025_969,
         dcsso:memb57110s2015t969 .
 
 dcsso:player57134 dcsso:hasMembership dcsso:memb57134s2015t1095 .
@@ -4109,7 +4144,8 @@ dcsso:player57404 dcsso:hasMembership dcsso:memb57404s2015t415 .
 dcsso:player57410 dcsso:hasMembership dcsso:memb57410s2015t989 .
 
 dcsso:player57420 dcsso:hasMembership dcsso:memb57420s2015t1158,
-        dcsso:memb57420s2015t289 .
+        dcsso:memb57420s2015t289,
+        dcsso:memb57420s2015t289_1158 .
 
 dcsso:player57449 dcsso:hasMembership dcsso:memb57449s2015t969 .
 
@@ -4198,7 +4234,8 @@ dcsso:player58799 dcsso:hasMembership dcsso:memb58799s2015t714 .
 dcsso:player5880 dcsso:hasMembership dcsso:memb5880s2015t12 .
 
 dcsso:player58818 dcsso:hasMembership dcsso:memb58818s2015t1041,
-        dcsso:memb58818s2015t940 .
+        dcsso:memb58818s2015t940,
+        dcsso:memb58818s2015t940_1041 .
 
 dcsso:player58864 dcsso:hasMembership dcsso:memb58864s2015t16 .
 
@@ -4453,6 +4490,7 @@ dcsso:player65237 dcsso:hasMembership dcsso:memb65237s2015t940 .
 dcsso:player65243 dcsso:hasMembership dcsso:memb65243s2015t714 .
 
 dcsso:player65255 dcsso:hasMembership dcsso:memb65255s2015t1123,
+        dcsso:memb65255s2015t1123_82,
         dcsso:memb65255s2015t82 .
 
 dcsso:player65278 dcsso:hasMembership dcsso:memb65278s2015t631 .
@@ -4542,6 +4580,7 @@ dcsso:player68033 dcsso:hasMembership dcsso:memb68033s2015t533 .
 dcsso:player68290 dcsso:hasMembership dcsso:memb68290s2015t131 .
 
 dcsso:player68306 dcsso:hasMembership dcsso:memb68306s2015t2288,
+        dcsso:memb68306s2015t2288_862,
         dcsso:memb68306s2015t862 .
 
 dcsso:player6838 dcsso:hasMembership dcsso:memb6838s2015t3709 .
@@ -4549,6 +4588,7 @@ dcsso:player6838 dcsso:hasMembership dcsso:memb6838s2015t3709 .
 dcsso:player68390 dcsso:hasMembership dcsso:memb68390s2015t29 .
 
 dcsso:player68645 dcsso:hasMembership dcsso:memb68645s2015t150,
+        dcsso:memb68645s2015t150_46,
         dcsso:memb68645s2015t46 .
 
 dcsso:player68815 dcsso:hasMembership dcsso:memb68815s2015t42 .
@@ -4558,6 +4598,7 @@ dcsso:player68863 dcsso:hasMembership dcsso:memb68863s2015t46 .
 dcsso:player68864 dcsso:hasMembership dcsso:memb68864s2015t12 .
 
 dcsso:player69001 dcsso:hasMembership dcsso:memb69001s2015t1010,
+        dcsso:memb69001s2015t1010_714,
         dcsso:memb69001s2015t714 .
 
 dcsso:player69006 dcsso:hasMembership dcsso:memb69006s2015t162 .
@@ -4719,7 +4760,8 @@ dcsso:player74557 dcsso:hasMembership dcsso:memb74557s2015t367 .
 dcsso:player74590 dcsso:hasMembership dcsso:memb74590s2015t984 .
 
 dcsso:player74615 dcsso:hasMembership dcsso:memb74615s2015t1421,
-        dcsso:memb74615s2015t458 .
+        dcsso:memb74615s2015t458,
+        dcsso:memb74615s2015t458_1421 .
 
 dcsso:player74683 dcsso:hasMembership dcsso:memb74683s2015t631 .
 
@@ -4910,7 +4952,8 @@ dcsso:player80894 dcsso:hasMembership dcsso:memb80894s2015t749 .
 dcsso:player81386 dcsso:hasMembership dcsso:memb81386s2015t40 .
 
 dcsso:player81455 dcsso:hasMembership dcsso:memb81455s2015t12,
-        dcsso:memb81455s2015t989 .
+        dcsso:memb81455s2015t989,
+        dcsso:memb81455s2015t989_12 .
 
 dcsso:player81460 dcsso:hasMembership dcsso:memb81460s2015t618 .
 
@@ -4975,7 +5018,8 @@ dcsso:player8317 dcsso:hasMembership dcsso:memb8317s2015t82 .
 dcsso:player83256 dcsso:hasMembership dcsso:memb83256s2015t86 .
 
 dcsso:player83895 dcsso:hasMembership dcsso:memb83895s2015t41,
-        dcsso:memb83895s2015t940 .
+        dcsso:memb83895s2015t940,
+        dcsso:memb83895s2015t940_41 .
 
 dcsso:player84085 dcsso:hasMembership dcsso:memb84085s2015t368 .
 
@@ -4988,7 +5032,8 @@ dcsso:player84435 dcsso:hasMembership dcsso:memb84435s2015t3 .
 dcsso:player84467 dcsso:hasMembership dcsso:memb84467s2015t276 .
 
 dcsso:player84481 dcsso:hasMembership dcsso:memb84481s2015t1082,
-        dcsso:memb84481s2015t2288 .
+        dcsso:memb84481s2015t2288,
+        dcsso:memb84481s2015t2288_1082 .
 
 dcsso:player84545 dcsso:hasMembership dcsso:memb84545s2015t398 .
 
@@ -5101,6 +5146,7 @@ dcsso:player88684 dcsso:hasMembership dcsso:memb88684s2015t15_39 .
 dcsso:player88706 dcsso:hasMembership dcsso:memb88706s2015t4102 .
 
 dcsso:player88755 dcsso:hasMembership dcsso:memb88755s2015t281,
+        dcsso:memb88755s2015t281_82,
         dcsso:memb88755s2015t82 .
 
 dcsso:player8883 dcsso:hasMembership dcsso:memb8883s2015t873 .
@@ -5162,6 +5208,7 @@ dcsso:player91763 dcsso:hasMembership dcsso:memb91763s2015t940 .
 dcsso:player91841 dcsso:hasMembership dcsso:memb91841s2015t167_39 .
 
 dcsso:player91845 dcsso:hasMembership dcsso:memb91845s2015t148,
+        dcsso:memb91845s2015t148_15,
         dcsso:memb91845s2015t15 .
 
 dcsso:player91885 dcsso:hasMembership dcsso:memb91885s2015t16795 .
@@ -5171,9 +5218,11 @@ dcsso:player91914 dcsso:hasMembership dcsso:memb91914s2015t8970 .
 dcsso:player91915 dcsso:hasMembership dcsso:memb91915s2015t24 .
 
 dcsso:player91970 dcsso:hasMembership dcsso:memb91970s2015t506,
-        dcsso:memb91970s2015t631 .
+        dcsso:memb91970s2015t631,
+        dcsso:memb91970s2015t631_506 .
 
 dcsso:player92141 dcsso:hasMembership dcsso:memb92141s2015t1010,
+        dcsso:memb92141s2015t1010_12,
         dcsso:memb92141s2015t12 .
 
 dcsso:player92385 dcsso:hasMembership dcsso:memb92385s2015t1420 .
@@ -5235,6 +5284,7 @@ dcsso:player94201 dcsso:hasMembership dcsso:memb94201s2015t82 .
 dcsso:player94305 dcsso:hasMembership dcsso:memb94305s2015t749 .
 
 dcsso:player94529 dcsso:hasMembership dcsso:memb94529s2015t12,
+        dcsso:memb94529s2015t12_162,
         dcsso:memb94529s2015t162 .
 
 dcsso:player94598 dcsso:hasMembership dcsso:memb94598s2015t4795 .
@@ -5286,6 +5336,7 @@ dcsso:player9824 dcsso:hasMembership dcsso:memb9824s2015t42 .
 dcsso:player98240 dcsso:hasMembership dcsso:memb98240s2015t405 .
 
 dcsso:player98249 dcsso:hasMembership dcsso:memb98249s2015t1533,
+        dcsso:memb98249s2015t1533_24,
         dcsso:memb98249s2015t24 .
 
 dcsso:player9828 dcsso:hasMembership dcsso:memb9828s2015t162 .
@@ -5702,6 +5753,29 @@ dcsso:memb103565s2015t289 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.489846e+00 ;
     dcsso:yellowCards "3"^^xsd:int .
 
+dcsso:memb103565s2015t289_40 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "8"^^xsd:int ;
+    dcsso:forTeam dcsso:team289,
+        dcsso:team40 ;
+    dcsso:games "34"^^xsd:int ;
+    dcsso:goals "7"^^xsd:int ;
+    dcsso:keyPasses "81"^^xsd:int ;
+    dcsso:minutes "2696"^^xsd:int ;
+    dcsso:npg "7"^^xsd:int ;
+    dcsso:npxG 5.429239e+00 ;
+    dcsso:npxG90 2.384126e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "64"^^xsd:int ;
+    dcsso:tmValue "9000000"^^xsd:int ;
+    dcsso:xA 7.082372e+00 ;
+    dcsso:xA90 6.17172e-03 ;
+    dcsso:xG 6.189334e+00 ;
+    dcsso:xG90 2.384126e-03 ;
+    dcsso:xGBuildup 3.022395e+00 ;
+    dcsso:xGChain 9.927776e+00 ;
+    dcsso:yellowCards "10"^^xsd:int .
+
 dcsso:memb103565s2015t40 a dcsso:SeasonalMembership ;
     dcsso:assists "7"^^xsd:int ;
     dcsso:forTeam dcsso:team40 ;
@@ -5921,6 +5995,29 @@ dcsso:memb105521s2015t368 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 1.189494e-01 ;
     dcsso:xGChain 3.067781e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb105521s2015t368_416 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team368,
+        dcsso:team416 ;
+    dcsso:games "22"^^xsd:int ;
+    dcsso:goals "7"^^xsd:int ;
+    dcsso:keyPasses "21"^^xsd:int ;
+    dcsso:minutes "1326"^^xsd:int ;
+    dcsso:npg "5"^^xsd:int ;
+    dcsso:npxG 6.667729e+00 ;
+    dcsso:npxG90 5.768572e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "52"^^xsd:int ;
+    dcsso:tmValue "10000000"^^xsd:int ;
+    dcsso:xA 2.7978e+00 ;
+    dcsso:xA90 4.14802e-04 ;
+    dcsso:xG 8.951625e+00 ;
+    dcsso:xG90 5.768572e-02 ;
+    dcsso:xGBuildup 2.263307e+00 ;
+    dcsso:xGChain 1.097592e+01 ;
+    dcsso:yellowCards "4"^^xsd:int .
 
 dcsso:memb105521s2015t416 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
@@ -10375,6 +10472,29 @@ dcsso:memb127187s2015t16795 a dcsso:SeasonalMembership ;
     dcsso:xGChain 4.118462e+00 ;
     dcsso:yellowCards "5"^^xsd:int .
 
+dcsso:memb127187s2015t16795_273 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "4"^^xsd:int ;
+    dcsso:forTeam dcsso:team16795,
+        dcsso:team273 ;
+    dcsso:games "31"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "31"^^xsd:int ;
+    dcsso:minutes "2097"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 2.874883e+00 ;
+    dcsso:npxG90 2.701783e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "30"^^xsd:int ;
+    dcsso:tmValue "6000000"^^xsd:int ;
+    dcsso:xA 2.536105e+00 ;
+    dcsso:xA90 3.430932e-03 ;
+    dcsso:xG 2.874883e+00 ;
+    dcsso:xG90 2.701783e-03 ;
+    dcsso:xGBuildup 6.033216e+00 ;
+    dcsso:xGChain 9.271362e+00 ;
+    dcsso:yellowCards "6"^^xsd:int .
+
 dcsso:memb127187s2015t273 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team273 ;
@@ -11233,6 +11353,29 @@ dcsso:memb130360s2015t1533 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 1.063938e+00 ;
     dcsso:xGChain 1.995577e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb130360s2015t1533_4102 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1533,
+        dcsso:team4102 ;
+    dcsso:games "17"^^xsd:int ;
+    dcsso:goals "3"^^xsd:int ;
+    dcsso:keyPasses "12"^^xsd:int ;
+    dcsso:minutes "557"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 1.268683e+00 ;
+    dcsso:npxG90 1.21073e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "21"^^xsd:int ;
+    dcsso:tmValue "1500000"^^xsd:int ;
+    dcsso:xA 1.431945e+00 ;
+    dcsso:xA90 6.235836e-02 ;
+    dcsso:xG 2.791281e+00 ;
+    dcsso:xG90 1.21073e-02 ;
+    dcsso:xGBuildup 1.249074e+00 ;
+    dcsso:xGChain 3.08297e+00 ;
+    dcsso:yellowCards "3"^^xsd:int .
 
 dcsso:memb130360s2015t4102 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -13060,6 +13203,29 @@ dcsso:memb142021s2015t1084 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 7.680061e-02 ;
     dcsso:xGChain 1.774284e-01 ;
     dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb142021s2015t1084_1041 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team1041,
+        dcsso:team1084 ;
+    dcsso:games "27"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "27"^^xsd:int ;
+    dcsso:minutes "1584"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 3.192591e+00 ;
+    dcsso:npxG90 4.886854e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "33"^^xsd:int ;
+    dcsso:tmValue "12000000"^^xsd:int ;
+    dcsso:xA 3.494056e+00 ;
+    dcsso:xA90 1.166955e-03 ;
+    dcsso:xG 3.192591e+00 ;
+    dcsso:xG90 4.886854e-03 ;
+    dcsso:xGBuildup 6.708798e+00 ;
+    dcsso:xGChain 1.082172e+01 ;
+    dcsso:yellowCards "2"^^xsd:int .
 
 dcsso:memb142031s2015t2448 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
@@ -16410,6 +16576,29 @@ dcsso:memb165873s2015t79 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.016641e-02 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb165873s2015t79_749 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team749,
+        dcsso:team79 ;
+    dcsso:games "12"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "1"^^xsd:int ;
+    dcsso:minutes "1034"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 2.467502e-01 ;
+    dcsso:npxG90 3.331916e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "4"^^xsd:int ;
+    dcsso:tmValue "1800000"^^xsd:int ;
+    dcsso:xA 4.087186e-02 ;
+    dcsso:xA90 0e+00 ;
+    dcsso:xG 2.467502e-01 ;
+    dcsso:xG90 3.331916e-03 ;
+    dcsso:xGBuildup 8.615683e-01 ;
+    dcsso:xGChain 8.746542e-01 ;
+    dcsso:yellowCards "3"^^xsd:int .
+
 dcsso:memb165895s2015t6574 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team6574 ;
@@ -17667,6 +17856,29 @@ dcsso:memb170934s2015t506 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.56721e+00 ;
     dcsso:yellowCards "4"^^xsd:int .
 
+dcsso:memb170934s2015t506_244 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team244,
+        dcsso:team506 ;
+    dcsso:games "14"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "1066"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 4.884149e-01 ;
+    dcsso:npxG90 2.038308e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "11"^^xsd:int ;
+    dcsso:tmValue "8000000"^^xsd:int ;
+    dcsso:xA 5.157139e-01 ;
+    dcsso:xA90 1.003167e-03 ;
+    dcsso:xG 4.884149e-01 ;
+    dcsso:xG90 2.038308e-03 ;
+    dcsso:xGBuildup 5.105314e+00 ;
+    dcsso:xGChain 5.493077e+00 ;
+    dcsso:yellowCards "5"^^xsd:int .
+
 dcsso:memb170957s2015t417 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team417 ;
@@ -17974,6 +18186,29 @@ dcsso:memb172181s2015t368 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 4.897324e-01 ;
     dcsso:xGChain 5.818488e-01 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb172181s2015t368_252 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team252,
+        dcsso:team368 ;
+    dcsso:games "13"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "4"^^xsd:int ;
+    dcsso:minutes "833"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 1.624942e-01 ;
+    dcsso:npxG90 1.764594e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "7"^^xsd:int ;
+    dcsso:tmValue "3000000"^^xsd:int ;
+    dcsso:xA 1.320755e-01 ;
+    dcsso:xA90 3.645634e-03 ;
+    dcsso:xG 1.624942e-01 ;
+    dcsso:xG90 1.764594e-03 ;
+    dcsso:xGBuildup 1.912135e+00 ;
+    dcsso:xGChain 2.097161e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
 
 dcsso:memb17249s2015t862 a dcsso:SeasonalMembership ;
     dcsso:assists "3"^^xsd:int ;
@@ -18746,6 +18981,29 @@ dcsso:memb177847s2015t985 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.891868e-01 ;
     dcsso:yellowCards "1"^^xsd:int .
 
+dcsso:memb177847s2015t985_16 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team16,
+        dcsso:team985 ;
+    dcsso:games "11"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "290"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 9.011377e-01 ;
+    dcsso:npxG90 4.79903e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "8"^^xsd:int ;
+    dcsso:tmValue "7000000"^^xsd:int ;
+    dcsso:xA 1.110146e+00 ;
+    dcsso:xA90 6.351709e-03 ;
+    dcsso:xG 9.011377e-01 ;
+    dcsso:xG90 4.79903e-02 ;
+    dcsso:xGBuildup 5.581979e-01 ;
+    dcsso:xGChain 2.2743e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb177862s2015t150 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team150 ;
@@ -19251,6 +19509,29 @@ dcsso:memb181477s2015t16795 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.722962e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb181477s2015t16795_1421 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team1421,
+        dcsso:team16795 ;
+    dcsso:games "21"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "12"^^xsd:int ;
+    dcsso:minutes "1112"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 3.59189e+00 ;
+    dcsso:npxG90 6.881088e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "20"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 1.255112e+00 ;
+    dcsso:xA90 3.871534e-03 ;
+    dcsso:xG 3.59189e+00 ;
+    dcsso:xG90 6.881088e-03 ;
+    dcsso:xGBuildup 1.174488e+00 ;
+    dcsso:xGChain 5.770922e+00 ;
+    dcsso:yellowCards "2"^^xsd:int .
+
 dcsso:memb181579s2015t180 a dcsso:SeasonalMembership ;
     dcsso:assists "4"^^xsd:int ;
     dcsso:forTeam dcsso:team180 ;
@@ -19515,6 +19796,29 @@ dcsso:memb182877s2015t985 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.557743e+01 ;
     dcsso:yellowCards "2"^^xsd:int .
 
+dcsso:memb182877s2015t985_162 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "5"^^xsd:int ;
+    dcsso:forTeam dcsso:team162,
+        dcsso:team985 ;
+    dcsso:games "34"^^xsd:int ;
+    dcsso:goals "11"^^xsd:int ;
+    dcsso:keyPasses "41"^^xsd:int ;
+    dcsso:minutes "2836"^^xsd:int ;
+    dcsso:npg "11"^^xsd:int ;
+    dcsso:npxG 7.355319e+00 ;
+    dcsso:npxG90 7.892942e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "58"^^xsd:int ;
+    dcsso:tmValue "32000000"^^xsd:int ;
+    dcsso:xA 6.979742e+00 ;
+    dcsso:xA90 6.699033e-03 ;
+    dcsso:xG 7.355319e+00 ;
+    dcsso:xG90 7.892942e-03 ;
+    dcsso:xGBuildup 6.321239e+00 ;
+    dcsso:xGChain 1.640083e+01 ;
+    dcsso:yellowCards "2"^^xsd:int .
+
 dcsso:memb182893s2015t595 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team595 ;
@@ -19690,6 +19994,29 @@ dcsso:memb182963s2015t367 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 8.20363e-01 ;
     dcsso:xGChain 3.083655e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb182963s2015t367_1421 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team1421,
+        dcsso:team367 ;
+    dcsso:games "26"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "21"^^xsd:int ;
+    dcsso:minutes "1215"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 2.584569e+00 ;
+    dcsso:npxG90 7.66816e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "34"^^xsd:int ;
+    dcsso:tmValue "2000000"^^xsd:int ;
+    dcsso:xA 1.947736e+00 ;
+    dcsso:xA90 1.165164e-02 ;
+    dcsso:xG 2.584569e+00 ;
+    dcsso:xG90 7.66816e-03 ;
+    dcsso:xGBuildup 1.248824e+00 ;
+    dcsso:xGChain 5.526478e+00 ;
+    dcsso:yellowCards "3"^^xsd:int .
 
 dcsso:memb18298s2015t1420 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -20085,6 +20412,29 @@ dcsso:memb184892s2015t762 a dcsso:SeasonalMembership ;
     dcsso:xG90 6.783341e-02 ;
     dcsso:xGBuildup 3.465205e-01 ;
     dcsso:xGChain 1.189682e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb184892s2015t762_244 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team244,
+        dcsso:team762 ;
+    dcsso:games "29"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "27"^^xsd:int ;
+    dcsso:minutes "1354"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 1.837091e+00 ;
+    dcsso:npxG90 4.508868e-03 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "25"^^xsd:int ;
+    dcsso:tmValue "12000000"^^xsd:int ;
+    dcsso:xA 3.328415e+00 ;
+    dcsso:xA90 8.824908e-03 ;
+    dcsso:xG 1.837091e+00 ;
+    dcsso:xG90 4.508868e-03 ;
+    dcsso:xGBuildup 3.287087e+00 ;
+    dcsso:xGChain 6.868933e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb184894s2015t6574 a dcsso:SeasonalMembership ;
@@ -21253,6 +21603,29 @@ dcsso:memb19104s2015t3368 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 6.161941e-01 ;
     dcsso:xGChain 6.289556e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb19104s2015t3368_430 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "4"^^xsd:int ;
+    dcsso:forTeam dcsso:team3368,
+        dcsso:team430 ;
+    dcsso:games "28"^^xsd:int ;
+    dcsso:goals "6"^^xsd:int ;
+    dcsso:keyPasses "28"^^xsd:int ;
+    dcsso:minutes "1527"^^xsd:int ;
+    dcsso:npg "5"^^xsd:int ;
+    dcsso:npxG 5.790688e+00 ;
+    dcsso:npxG90 2.197786e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "49"^^xsd:int ;
+    dcsso:tmValue "7500000"^^xsd:int ;
+    dcsso:xA 3.422033e+00 ;
+    dcsso:xA90 8.124659e-03 ;
+    dcsso:xG 6.533965e+00 ;
+    dcsso:xG90 2.537092e-02 ;
+    dcsso:xGBuildup 1.062171e+00 ;
+    dcsso:xGChain 9.193312e+00 ;
+    dcsso:yellowCards "2"^^xsd:int .
 
 dcsso:memb19104s2015t430 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
@@ -26982,6 +27355,29 @@ dcsso:memb23197s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.898574e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb23197s2015t1010_800 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team1010,
+        dcsso:team800 ;
+    dcsso:games "19"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "25"^^xsd:int ;
+    dcsso:minutes "923"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 1.698645e+00 ;
+    dcsso:npxG90 2.062059e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "25"^^xsd:int ;
+    dcsso:tmValue "1000000"^^xsd:int ;
+    dcsso:xA 2.757556e+00 ;
+    dcsso:xA90 2.936603e-02 ;
+    dcsso:xG 1.698645e+00 ;
+    dcsso:xG90 2.062059e-03 ;
+    dcsso:xGBuildup 3.231382e+00 ;
+    dcsso:xGChain 5.912015e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
+
 dcsso:memb23197s2015t800 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team800 ;
@@ -27135,6 +27531,29 @@ dcsso:memb23287s2015t367 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 3.164173e+00 ;
     dcsso:xGChain 4.057135e+00 ;
     dcsso:yellowCards "7"^^xsd:int .
+
+dcsso:memb23287s2015t367_418 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team367,
+        dcsso:team418 ;
+    dcsso:games "38"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "14"^^xsd:int ;
+    dcsso:minutes "2867"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 9.642586e-01 ;
+    dcsso:npxG90 8.021937e-04 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "20"^^xsd:int ;
+    dcsso:tmValue "1200000"^^xsd:int ;
+    dcsso:xA 8.694452e-01 ;
+    dcsso:xA90 1.136075e-03 ;
+    dcsso:xG 9.642586e-01 ;
+    dcsso:xG90 8.021937e-04 ;
+    dcsso:xGBuildup 1.082514e+01 ;
+    dcsso:xGChain 1.213656e+01 ;
+    dcsso:yellowCards "12"^^xsd:int .
 
 dcsso:memb23287s2015t418 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -28302,6 +28721,29 @@ dcsso:memb243714s2015t27 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.391422e+01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb243714s2015t27_506 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "6"^^xsd:int ;
+    dcsso:forTeam dcsso:team27,
+        dcsso:team506 ;
+    dcsso:games "24"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "38"^^xsd:int ;
+    dcsso:minutes "1753"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 4.19433e+00 ;
+    dcsso:npxG90 1.09888e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "39"^^xsd:int ;
+    dcsso:tmValue "15000000"^^xsd:int ;
+    dcsso:xA 5.580211e+00 ;
+    dcsso:xA90 1.463756e-02 ;
+    dcsso:xG 4.19433e+00 ;
+    dcsso:xG90 1.09888e-02 ;
+    dcsso:xGBuildup 7.205979e+00 ;
+    dcsso:xGChain 1.479549e+01 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
 dcsso:memb243714s2015t506 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team506 ;
@@ -28653,6 +29095,29 @@ dcsso:memb24661s2015t398 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 2.123361e+00 ;
     dcsso:xGChain 2.123361e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb24661s2015t398_1041 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1041,
+        dcsso:team398 ;
+    dcsso:games "17"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "2"^^xsd:int ;
+    dcsso:minutes "1363"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 6.032209e-01 ;
+    dcsso:npxG90 3.952376e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "2"^^xsd:int ;
+    dcsso:tmValue "1500000"^^xsd:int ;
+    dcsso:xA 3.72917e-02 ;
+    dcsso:xA90 2.443397e-04 ;
+    dcsso:xG 6.032209e-01 ;
+    dcsso:xG90 3.952376e-03 ;
+    dcsso:xGBuildup 2.561029e+00 ;
+    dcsso:xGChain 2.561029e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb246877s2015t2448 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
@@ -30692,6 +31157,29 @@ dcsso:memb26456s2015t379 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.80739e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
+dcsso:memb26456s2015t379_430 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team379,
+        dcsso:team430 ;
+    dcsso:games "30"^^xsd:int ;
+    dcsso:goals "6"^^xsd:int ;
+    dcsso:keyPasses "32"^^xsd:int ;
+    dcsso:minutes "1488"^^xsd:int ;
+    dcsso:npg "6"^^xsd:int ;
+    dcsso:npxG 4.324762e+00 ;
+    dcsso:npxG90 1.060595e-02 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "69"^^xsd:int ;
+    dcsso:tmValue "3000000"^^xsd:int ;
+    dcsso:xA 2.010486e+00 ;
+    dcsso:xA90 9.177443e-03 ;
+    dcsso:xG 4.324762e+00 ;
+    dcsso:xG90 1.060595e-02 ;
+    dcsso:xGBuildup 4.528952e+00 ;
+    dcsso:xGChain 8.771675e+00 ;
+    dcsso:yellowCards "3"^^xsd:int .
+
 dcsso:memb26456s2015t430 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team430 ;
@@ -31306,6 +31794,29 @@ dcsso:memb27306s2015t11 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 4.798561e-01 ;
     dcsso:xGChain 5.083015e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb27306s2015t11_40 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team11,
+        dcsso:team40 ;
+    dcsso:games "11"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "4"^^xsd:int ;
+    dcsso:minutes "931"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 6.48444e-01 ;
+    dcsso:npxG90 1.683567e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "7"^^xsd:int ;
+    dcsso:tmValue "10000000"^^xsd:int ;
+    dcsso:xA 1.981935e-01 ;
+    dcsso:xA90 1.060163e-03 ;
+    dcsso:xG 6.48444e-01 ;
+    dcsso:xG90 1.683567e-03 ;
+    dcsso:xGBuildup 1.485589e+00 ;
+    dcsso:xGChain 1.97242e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb27306s2015t40 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -31986,6 +32497,29 @@ dcsso:memb28005s2015t3368 a dcsso:SeasonalMembership ;
     dcsso:xG90 9.903584e-02 ;
     dcsso:xGBuildup 2.786109e+00 ;
     dcsso:xGChain 3.939387e+00 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb28005s2015t3368_430 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team3368,
+        dcsso:team430 ;
+    dcsso:games "18"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "23"^^xsd:int ;
+    dcsso:minutes "1083"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 1.498671e+00 ;
+    dcsso:npxG90 8.230126e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "13"^^xsd:int ;
+    dcsso:tmValue "800000"^^xsd:int ;
+    dcsso:xA 2.106701e+00 ;
+    dcsso:xA90 1.572783e-02 ;
+    dcsso:xG 1.498671e+00 ;
+    dcsso:xG90 8.230126e-03 ;
+    dcsso:xGBuildup 3.644095e+00 ;
+    dcsso:xGChain 5.148295e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
 
 dcsso:memb28005s2015t430 a dcsso:SeasonalMembership ;
@@ -38207,6 +38741,29 @@ dcsso:memb35099s2015t289 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.554333e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb35099s2015t289_244 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team244,
+        dcsso:team289 ;
+    dcsso:games "28"^^xsd:int ;
+    dcsso:goals "6"^^xsd:int ;
+    dcsso:keyPasses "24"^^xsd:int ;
+    dcsso:minutes "1773"^^xsd:int ;
+    dcsso:npg "6"^^xsd:int ;
+    dcsso:npxG 5.076495e+00 ;
+    dcsso:npxG90 1.391298e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "44"^^xsd:int ;
+    dcsso:tmValue "4500000"^^xsd:int ;
+    dcsso:xA 2.539327e+00 ;
+    dcsso:xA90 3.607223e-03 ;
+    dcsso:xG 5.836591e+00 ;
+    dcsso:xG90 1.391298e-02 ;
+    dcsso:xGBuildup 1.467432e+00 ;
+    dcsso:xGChain 7.142986e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb351478s2015t681 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team681 ;
@@ -38978,6 +39535,29 @@ dcsso:memb35564s2015t368 a dcsso:SeasonalMembership ;
     dcsso:xGChain 6.703843e+00 ;
     dcsso:yellowCards "4"^^xsd:int .
 
+dcsso:memb35564s2015t368_506 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "3"^^xsd:int ;
+    dcsso:forTeam dcsso:team368,
+        dcsso:team506 ;
+    dcsso:games "24"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "17"^^xsd:int ;
+    dcsso:minutes "1172"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 5.583082e+00 ;
+    dcsso:npxG90 3.323527e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "29"^^xsd:int ;
+    dcsso:tmValue "6000000"^^xsd:int ;
+    dcsso:xA 2.231638e+00 ;
+    dcsso:xA90 1.328461e-02 ;
+    dcsso:xG 5.583082e+00 ;
+    dcsso:xG90 3.323527e-02 ;
+    dcsso:xGBuildup 8.148482e-01 ;
+    dcsso:xGChain 6.703843e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
+
 dcsso:memb35564s2015t506 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team506 ;
@@ -39595,6 +40175,29 @@ dcsso:memb36500s2015t289 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.339702e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
+dcsso:memb36500s2015t289_273 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team273,
+        dcsso:team289 ;
+    dcsso:games "13"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "681"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 8.512008e-01 ;
+    dcsso:npxG90 1.454308e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "8"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 1.017384e+00 ;
+    dcsso:xA90 1.811533e-02 ;
+    dcsso:xG 8.512008e-01 ;
+    dcsso:xG90 1.454308e-02 ;
+    dcsso:xGBuildup 1.059974e+00 ;
+    dcsso:xGChain 1.374142e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb36608s2015t1123 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team1123 ;
@@ -40035,6 +40638,29 @@ dcsso:memb37337s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 1.46377e+00 ;
     dcsso:xGChain 1.937754e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb37337s2015t1010_430 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1010,
+        dcsso:team430 ;
+    dcsso:games "24"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "1187"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 6.308832e-01 ;
+    dcsso:npxG90 2.047864e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "15"^^xsd:int ;
+    dcsso:tmValue "8000000"^^xsd:int ;
+    dcsso:xA 3.460902e-01 ;
+    dcsso:xA90 3.088301e-03 ;
+    dcsso:xG 6.308832e-01 ;
+    dcsso:xG90 2.047864e-03 ;
+    dcsso:xGBuildup 2.87622e+00 ;
+    dcsso:xGChain 3.663688e+00 ;
+    dcsso:yellowCards "5"^^xsd:int .
 
 dcsso:memb37337s2015t430 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -40717,6 +41343,29 @@ dcsso:memb38360s2015t42 a dcsso:SeasonalMembership ;
     dcsso:xG90 2.931128e-01 ;
     dcsso:xGBuildup 1.294749e-01 ;
     dcsso:xGChain 9.47958e-01 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb38360s2015t42_855 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team42,
+        dcsso:team855 ;
+    dcsso:games "26"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "10"^^xsd:int ;
+    dcsso:minutes "1251"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 4.299845e+00 ;
+    dcsso:npxG90 7.754459e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "25"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 7.93295e-01 ;
+    dcsso:xA90 9.086798e-03 ;
+    dcsso:xG 5.057622e+00 ;
+    dcsso:xG90 2.108725e-02 ;
+    dcsso:xGBuildup 2.678631e-01 ;
+    dcsso:xGChain 4.775551e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
 
 dcsso:memb38360s2015t855 a dcsso:SeasonalMembership ;
@@ -42389,6 +43038,29 @@ dcsso:memb40428s2015t367 a dcsso:SeasonalMembership ;
     dcsso:xGChain 8.50321e-01 ;
     dcsso:yellowCards "2"^^xsd:int .
 
+dcsso:memb40428s2015t367_410 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team367,
+        dcsso:team410 ;
+    dcsso:games "23"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "7"^^xsd:int ;
+    dcsso:minutes "1424"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 5.550436e-01 ;
+    dcsso:npxG90 0e+00 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "4"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 6.830187e-01 ;
+    dcsso:xA90 4.381378e-04 ;
+    dcsso:xG 5.550436e-01 ;
+    dcsso:xG90 0e+00 ;
+    dcsso:xGBuildup 2.519902e+00 ;
+    dcsso:xGChain 3.733066e+00 ;
+    dcsso:yellowCards "10"^^xsd:int .
+
 dcsso:memb40428s2015t410 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team410 ;
@@ -43535,6 +44207,29 @@ dcsso:memb42460s2015t82 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.18942e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb42460s2015t82_46 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "6"^^xsd:int ;
+    dcsso:forTeam dcsso:team46,
+        dcsso:team82 ;
+    dcsso:games "36"^^xsd:int ;
+    dcsso:goals "8"^^xsd:int ;
+    dcsso:keyPasses "35"^^xsd:int ;
+    dcsso:minutes "2574"^^xsd:int ;
+    dcsso:npg "8"^^xsd:int ;
+    dcsso:npxG 7.613263e+00 ;
+    dcsso:npxG90 2.338883e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "71"^^xsd:int ;
+    dcsso:tmValue "25000000"^^xsd:int ;
+    dcsso:xA 3.950673e+00 ;
+    dcsso:xA90 3.024391e-03 ;
+    dcsso:xG 7.613263e+00 ;
+    dcsso:xG90 2.338883e-03 ;
+    dcsso:xGBuildup 5.223633e+00 ;
+    dcsso:xGChain 1.393625e+01 ;
+    dcsso:yellowCards "5"^^xsd:int .
+
 dcsso:memb42513s2015t1123 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team1123 ;
@@ -44150,6 +44845,29 @@ dcsso:memb43722s2015t506 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 7.004076e-02 ;
     dcsso:xGChain 7.004076e-02 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb43722s2015t506_244 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team244,
+        dcsso:team506 ;
+    dcsso:games "24"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "23"^^xsd:int ;
+    dcsso:minutes "1806"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 5.905715e-01 ;
+    dcsso:npxG90 0e+00 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "8"^^xsd:int ;
+    dcsso:tmValue "6000000"^^xsd:int ;
+    dcsso:xA 1.54764e+00 ;
+    dcsso:xA90 3.490403e-02 ;
+    dcsso:xG 5.905715e-01 ;
+    dcsso:xG90 0e+00 ;
+    dcsso:xGBuildup 5.335771e+00 ;
+    dcsso:xGChain 6.680425e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb43760s2015t1025 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -46069,6 +46787,29 @@ dcsso:memb46580s2015t1003 a dcsso:SeasonalMembership ;
     dcsso:xGChain 4.838531e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb46580s2015t1003_533 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team1003,
+        dcsso:team533 ;
+    dcsso:games "17"^^xsd:int ;
+    dcsso:goals "5"^^xsd:int ;
+    dcsso:keyPasses "10"^^xsd:int ;
+    dcsso:minutes "1104"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 4.967825e+00 ;
+    dcsso:npxG90 1.733453e-01 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "43"^^xsd:int ;
+    dcsso:tmValue "5000000"^^xsd:int ;
+    dcsso:xA 1.059118e+00 ;
+    dcsso:xA90 9.159656e-03 ;
+    dcsso:xG 6.483378e+00 ;
+    dcsso:xG90 1.733453e-01 ;
+    dcsso:xGBuildup 2.023528e+00 ;
+    dcsso:xGChain 7.15002e+00 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
 dcsso:memb46580s2015t533 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team533 ;
@@ -47214,6 +47955,29 @@ dcsso:memb50303s2015t167 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.822277e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
+dcsso:memb50303s2015t167_252 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team167,
+        dcsso:team252 ;
+    dcsso:games "18"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "835"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 3.298175e+00 ;
+    dcsso:npxG90 5.145316e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "23"^^xsd:int ;
+    dcsso:tmValue "2000000"^^xsd:int ;
+    dcsso:xA 8.517096e-01 ;
+    dcsso:xA90 1.910762e-02 ;
+    dcsso:xG 3.298175e+00 ;
+    dcsso:xG90 5.145316e-02 ;
+    dcsso:xGBuildup 1.549472e+00 ;
+    dcsso:xGChain 5.107717e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb50303s2015t252 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team252 ;
@@ -47411,6 +48175,29 @@ dcsso:memb50935s2015t985 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 0e+00 ;
     dcsso:xGChain 4.294277e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb50935s2015t985_15 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team15,
+        dcsso:team985 ;
+    dcsso:games "29"^^xsd:int ;
+    dcsso:goals "17"^^xsd:int ;
+    dcsso:keyPasses "29"^^xsd:int ;
+    dcsso:minutes "2200"^^xsd:int ;
+    dcsso:npg "16"^^xsd:int ;
+    dcsso:npxG 1.202167e+01 ;
+    dcsso:npxG90 6.478118e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "65"^^xsd:int ;
+    dcsso:tmValue "18000000"^^xsd:int ;
+    dcsso:xA 4.141005e+00 ;
+    dcsso:xA90 7.08584e-03 ;
+    dcsso:xG 1.277944e+01 ;
+    dcsso:xG90 6.478118e-02 ;
+    dcsso:xGBuildup 3.719827e+00 ;
+    dcsso:xGChain 1.643601e+01 ;
+    dcsso:yellowCards "6"^^xsd:int .
 
 dcsso:memb51030s2015t855 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -47852,6 +48639,29 @@ dcsso:memb51540s2015t762 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 2.304729e-01 ;
     dcsso:xGChain 2.304729e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb51540s2015t762_40 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team40,
+        dcsso:team762 ;
+    dcsso:games "22"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "15"^^xsd:int ;
+    dcsso:minutes "1714"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 9.880657e-01 ;
+    dcsso:npxG90 0e+00 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "27"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 6.718123e-01 ;
+    dcsso:xA90 4.828367e-04 ;
+    dcsso:xG 9.880657e-01 ;
+    dcsso:xG90 0e+00 ;
+    dcsso:xGBuildup 3.849363e+00 ;
+    dcsso:xGChain 4.17594e+00 ;
+    dcsso:yellowCards "3"^^xsd:int .
 
 dcsso:memb51559s2015t1533 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -49618,6 +50428,29 @@ dcsso:memb55619s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.060082e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
 
+dcsso:memb55619s2015t1010_1084 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team1010,
+        dcsso:team1084 ;
+    dcsso:games "25"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "22"^^xsd:int ;
+    dcsso:minutes "1513"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 2.070326e+00 ;
+    dcsso:npxG90 8.070074e-03 ;
+    dcsso:redCards "2"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "33"^^xsd:int ;
+    dcsso:tmValue "4500000"^^xsd:int ;
+    dcsso:xA 3.167483e+00 ;
+    dcsso:xA90 6.333301e-03 ;
+    dcsso:xG 2.813604e+00 ;
+    dcsso:xG90 8.070074e-03 ;
+    dcsso:xGBuildup 1.998293e+00 ;
+    dcsso:xGChain 6.584367e+00 ;
+    dcsso:yellowCards "7"^^xsd:int .
+
 dcsso:memb55619s2015t1084 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
     dcsso:forTeam dcsso:team1084 ;
@@ -50520,6 +51353,29 @@ dcsso:memb57110s2015t1025 a dcsso:SeasonalMembership ;
     dcsso:xGChain 6.674011e+00 ;
     dcsso:yellowCards "6"^^xsd:int .
 
+dcsso:memb57110s2015t1025_969 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team1025,
+        dcsso:team969 ;
+    dcsso:games "33"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "33"^^xsd:int ;
+    dcsso:minutes "2216"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 2.590564e+00 ;
+    dcsso:npxG90 4.707269e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "23"^^xsd:int ;
+    dcsso:tmValue "4000000"^^xsd:int ;
+    dcsso:xA 3.807073e+00 ;
+    dcsso:xA90 7.074875e-03 ;
+    dcsso:xG 2.590564e+00 ;
+    dcsso:xG90 4.707269e-03 ;
+    dcsso:xGBuildup 2.83394e+00 ;
+    dcsso:xGChain 6.990929e+00 ;
+    dcsso:yellowCards "6"^^xsd:int .
+
 dcsso:memb57110s2015t969 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team969 ;
@@ -50960,6 +51816,29 @@ dcsso:memb57420s2015t289 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 1.021767e+00 ;
     dcsso:xGChain 1.065935e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb57420s2015t289_1158 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team1158,
+        dcsso:team289 ;
+    dcsso:games "33"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "7"^^xsd:int ;
+    dcsso:minutes "2868"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 3.430201e+00 ;
+    dcsso:npxG90 5.268828e-03 ;
+    dcsso:redCards "1"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "21"^^xsd:int ;
+    dcsso:tmValue "6000000"^^xsd:int ;
+    dcsso:xA 7.852657e-01 ;
+    dcsso:xA90 1.610743e-03 ;
+    dcsso:xG 3.430201e+00 ;
+    dcsso:xG90 5.268828e-03 ;
+    dcsso:xGBuildup 3.800741e+00 ;
+    dcsso:xGChain 4.024388e+00 ;
+    dcsso:yellowCards "3"^^xsd:int .
 
 dcsso:memb57449s2015t969 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -51951,6 +52830,29 @@ dcsso:memb58818s2015t940 a dcsso:SeasonalMembership ;
     dcsso:xG90 2.106524e-01 ;
     dcsso:xGBuildup 1.360744e-01 ;
     dcsso:xGChain 1.550084e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb58818s2015t940_1041 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team1041,
+        dcsso:team940 ;
+    dcsso:games "29"^^xsd:int ;
+    dcsso:goals "6"^^xsd:int ;
+    dcsso:keyPasses "20"^^xsd:int ;
+    dcsso:minutes "1789"^^xsd:int ;
+    dcsso:npg "5"^^xsd:int ;
+    dcsso:npxG 7.377849e+00 ;
+    dcsso:npxG90 1.059738e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "75"^^xsd:int ;
+    dcsso:tmValue "4000000"^^xsd:int ;
+    dcsso:xA 2.221641e+00 ;
+    dcsso:xA90 4.088855e-03 ;
+    dcsso:xG 8.137944e+00 ;
+    dcsso:xG90 1.059738e-02 ;
+    dcsso:xGBuildup 1.103964e+00 ;
+    dcsso:xGChain 8.51625e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb58864s2015t16 a dcsso:SeasonalMembership ;
@@ -54749,6 +55651,29 @@ dcsso:memb65255s2015t1123 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.904533e-01 ;
     dcsso:yellowCards "3"^^xsd:int .
 
+dcsso:memb65255s2015t1123_82 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1123,
+        dcsso:team82 ;
+    dcsso:games "18"^^xsd:int ;
+    dcsso:goals "2"^^xsd:int ;
+    dcsso:keyPasses "1"^^xsd:int ;
+    dcsso:minutes "1482"^^xsd:int ;
+    dcsso:npg "2"^^xsd:int ;
+    dcsso:npxG 8.062433e-01 ;
+    dcsso:npxG90 3.498648e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "7"^^xsd:int ;
+    dcsso:tmValue "5500000"^^xsd:int ;
+    dcsso:xA 1.917465e-02 ;
+    dcsso:xA90 0e+00 ;
+    dcsso:xG 8.062433e-01 ;
+    dcsso:xG90 3.498648e-03 ;
+    dcsso:xGBuildup 1.494022e+00 ;
+    dcsso:xGChain 1.643647e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
+
 dcsso:memb65255s2015t82 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team82 ;
@@ -55741,6 +56666,29 @@ dcsso:memb68306s2015t2288 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.735495e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
 
+dcsso:memb68306s2015t2288_862 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team2288,
+        dcsso:team862 ;
+    dcsso:games "31"^^xsd:int ;
+    dcsso:goals "10"^^xsd:int ;
+    dcsso:keyPasses "16"^^xsd:int ;
+    dcsso:minutes "2351"^^xsd:int ;
+    dcsso:npg "9"^^xsd:int ;
+    dcsso:npxG 9.711855e+00 ;
+    dcsso:npxG90 1.235439e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "56"^^xsd:int ;
+    dcsso:tmValue "6000000"^^xsd:int ;
+    dcsso:xA 1.353148e+00 ;
+    dcsso:xA90 3.079049e-03 ;
+    dcsso:xG 1.199571e+01 ;
+    dcsso:xG90 1.235439e-02 ;
+    dcsso:xGBuildup 9.661048e-01 ;
+    dcsso:xGChain 1.088031e+01 ;
+    dcsso:yellowCards "3"^^xsd:int .
+
 dcsso:memb68306s2015t862 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team862 ;
@@ -55827,6 +56775,29 @@ dcsso:memb68645s2015t150 a dcsso:SeasonalMembership ;
     dcsso:xG90 2.299476e-03 ;
     dcsso:xGBuildup 2.021037e+00 ;
     dcsso:xGChain 2.083919e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
+
+dcsso:memb68645s2015t150_46 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team150,
+        dcsso:team46 ;
+    dcsso:games "16"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "7"^^xsd:int ;
+    dcsso:minutes "1426"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 2.986763e-02 ;
+    dcsso:npxG90 1.451282e-04 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "1"^^xsd:int ;
+    dcsso:tmValue "3000000"^^xsd:int ;
+    dcsso:xA 9.569427e-01 ;
+    dcsso:xA90 4.454123e-03 ;
+    dcsso:xG 2.986763e-02 ;
+    dcsso:xG90 1.451282e-04 ;
+    dcsso:xGBuildup 2.867405e+00 ;
+    dcsso:xGChain 2.954967e+00 ;
     dcsso:yellowCards "4"^^xsd:int .
 
 dcsso:memb68645s2015t46 a dcsso:SeasonalMembership ;
@@ -55937,6 +56908,29 @@ dcsso:memb69001s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:xG90 0e+00 ;
     dcsso:xGBuildup 0e+00 ;
     dcsso:xGChain 0e+00 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb69001s2015t1010_714 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1010,
+        dcsso:team714 ;
+    dcsso:games "4"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "0"^^xsd:int ;
+    dcsso:minutes "248"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 0e+00 ;
+    dcsso:npxG90 0e+00 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "0"^^xsd:int ;
+    dcsso:tmValue "1500000"^^xsd:int ;
+    dcsso:xA 0e+00 ;
+    dcsso:xA90 0e+00 ;
+    dcsso:xG 0e+00 ;
+    dcsso:xG90 0e+00 ;
+    dcsso:xGBuildup 2.651964e-02 ;
+    dcsso:xGChain 2.651964e-02 ;
     dcsso:yellowCards "0"^^xsd:int .
 
 dcsso:memb69001s2015t714 a dcsso:SeasonalMembership ;
@@ -57767,6 +58761,29 @@ dcsso:memb74615s2015t458 a dcsso:SeasonalMembership ;
     dcsso:xG90 7.329211e-02 ;
     dcsso:xGBuildup 1.115834e+00 ;
     dcsso:xGChain 1.115834e+00 ;
+    dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb74615s2015t458_1421 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1421,
+        dcsso:team458 ;
+    dcsso:games "15"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "4"^^xsd:int ;
+    dcsso:minutes "1274"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 6.134035e-01 ;
+    dcsso:npxG90 5.177622e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "3"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 9.425044e-01 ;
+    dcsso:xA90 6.047404e-03 ;
+    dcsso:xG 6.134035e-01 ;
+    dcsso:xG90 5.177622e-03 ;
+    dcsso:xGBuildup 2.295786e+00 ;
+    dcsso:xGChain 2.639059e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
 
 dcsso:memb74683s2015t631 a dcsso:SeasonalMembership ;
@@ -59907,6 +60924,29 @@ dcsso:memb81455s2015t989 a dcsso:SeasonalMembership ;
     dcsso:xGChain 4.07765e-02 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb81455s2015t989_12 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team12,
+        dcsso:team989 ;
+    dcsso:games "14"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "7"^^xsd:int ;
+    dcsso:minutes "444"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 8.227984e-01 ;
+    dcsso:npxG90 1.003601e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "10"^^xsd:int ;
+    dcsso:tmValue "12000000"^^xsd:int ;
+    dcsso:xA 3.963327e-01 ;
+    dcsso:xA90 4.550183e-03 ;
+    dcsso:xG 8.227984e-01 ;
+    dcsso:xG90 1.003601e-02 ;
+    dcsso:xGBuildup 8.90686e-01 ;
+    dcsso:xGChain 1.897316e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb81460s2015t618 a dcsso:SeasonalMembership ;
     dcsso:assists "2"^^xsd:int ;
     dcsso:forTeam dcsso:team618 ;
@@ -60633,6 +61673,29 @@ dcsso:memb83895s2015t940 a dcsso:SeasonalMembership ;
     dcsso:xGChain 5.096113e+00 ;
     dcsso:yellowCards "3"^^xsd:int .
 
+dcsso:memb83895s2015t940_41 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team41,
+        dcsso:team940 ;
+    dcsso:games "25"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "8"^^xsd:int ;
+    dcsso:minutes "1437"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 7.402496e-01 ;
+    dcsso:npxG90 2.371714e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "22"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 4.79516e-01 ;
+    dcsso:xA90 1.957404e-03 ;
+    dcsso:xG 7.402496e-01 ;
+    dcsso:xG90 2.371714e-03 ;
+    dcsso:xGBuildup 5.102131e+00 ;
+    dcsso:xGChain 5.804136e+00 ;
+    dcsso:yellowCards "4"^^xsd:int .
+
 dcsso:memb84085s2015t368 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team368 ;
@@ -60786,6 +61849,29 @@ dcsso:memb84481s2015t2288 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 5.461309e-01 ;
     dcsso:xGChain 7.176e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb84481s2015t2288_1082 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "4"^^xsd:int ;
+    dcsso:forTeam dcsso:team1082,
+        dcsso:team2288 ;
+    dcsso:games "26"^^xsd:int ;
+    dcsso:goals "6"^^xsd:int ;
+    dcsso:keyPasses "12"^^xsd:int ;
+    dcsso:minutes "1329"^^xsd:int ;
+    dcsso:npg "5"^^xsd:int ;
+    dcsso:npxG 5.125691e+00 ;
+    dcsso:npxG90 5.31986e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "36"^^xsd:int ;
+    dcsso:tmValue "5000000"^^xsd:int ;
+    dcsso:xA 2.932988e+00 ;
+    dcsso:xA90 3.0286e-03 ;
+    dcsso:xG 5.885787e+00 ;
+    dcsso:xG90 5.31986e-03 ;
+    dcsso:xGBuildup 1.963907e+00 ;
+    dcsso:xGChain 7.287281e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb84545s2015t398 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -62023,6 +63109,29 @@ dcsso:memb88755s2015t281 a dcsso:SeasonalMembership ;
     dcsso:xGChain 1.613647e+01 ;
     dcsso:yellowCards "2"^^xsd:int .
 
+dcsso:memb88755s2015t281_82 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "9"^^xsd:int ;
+    dcsso:forTeam dcsso:team281,
+        dcsso:team82 ;
+    dcsso:games "27"^^xsd:int ;
+    dcsso:goals "7"^^xsd:int ;
+    dcsso:keyPasses "82"^^xsd:int ;
+    dcsso:minutes "2174"^^xsd:int ;
+    dcsso:npg "7"^^xsd:int ;
+    dcsso:npxG 5.17551e+00 ;
+    dcsso:npxG90 8.001657e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "53"^^xsd:int ;
+    dcsso:tmValue "60000000"^^xsd:int ;
+    dcsso:xA 8.343022e+00 ;
+    dcsso:xA90 1.547553e-02 ;
+    dcsso:xG 5.17551e+00 ;
+    dcsso:xG90 8.001657e-03 ;
+    dcsso:xGBuildup 8.28785e+00 ;
+    dcsso:xGChain 1.715849e+01 ;
+    dcsso:yellowCards "3"^^xsd:int .
+
 dcsso:memb88755s2015t82 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team82 ;
@@ -62706,6 +63815,29 @@ dcsso:memb91845s2015t148 a dcsso:SeasonalMembership ;
     dcsso:xGChain 7.979229e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb91845s2015t148_15 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team148,
+        dcsso:team15 ;
+    dcsso:games "29"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "18"^^xsd:int ;
+    dcsso:minutes "1175"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 4.595907e+00 ;
+    dcsso:npxG90 2.59582e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "40"^^xsd:int ;
+    dcsso:tmValue "25000000"^^xsd:int ;
+    dcsso:xA 7.707011e-01 ;
+    dcsso:xA90 4.786413e-03 ;
+    dcsso:xG 4.595907e+00 ;
+    dcsso:xG90 2.59582e-02 ;
+    dcsso:xGBuildup 4.969364e+00 ;
+    dcsso:xGChain 8.498063e+00 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
 dcsso:memb91845s2015t15 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team15 ;
@@ -62838,6 +63970,29 @@ dcsso:memb91970s2015t631 a dcsso:SeasonalMembership ;
     dcsso:xGChain 3.935323e-02 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb91970s2015t631_506 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "5"^^xsd:int ;
+    dcsso:forTeam dcsso:team506,
+        dcsso:team631 ;
+    dcsso:games "29"^^xsd:int ;
+    dcsso:goals "4"^^xsd:int ;
+    dcsso:keyPasses "44"^^xsd:int ;
+    dcsso:minutes "1721"^^xsd:int ;
+    dcsso:npg "4"^^xsd:int ;
+    dcsso:npxG 2.423573e+00 ;
+    dcsso:npxG90 8.419027e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "37"^^xsd:int ;
+    dcsso:tmValue "25000000"^^xsd:int ;
+    dcsso:xA 3.724586e+00 ;
+    dcsso:xA90 0e+00 ;
+    dcsso:xG 2.423573e+00 ;
+    dcsso:xG90 8.419027e-03 ;
+    dcsso:xGBuildup 6.95888e+00 ;
+    dcsso:xGChain 1.125476e+01 ;
+    dcsso:yellowCards "2"^^xsd:int .
+
 dcsso:memb92141s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team1010 ;
@@ -62858,6 +64013,29 @@ dcsso:memb92141s2015t1010 a dcsso:SeasonalMembership ;
     dcsso:xG90 0e+00 ;
     dcsso:xGBuildup 1.751345e-02 ;
     dcsso:xGChain 1.751345e-02 ;
+    dcsso:yellowCards "0"^^xsd:int .
+
+dcsso:memb92141s2015t1010_12 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "0"^^xsd:int ;
+    dcsso:forTeam dcsso:team1010,
+        dcsso:team12 ;
+    dcsso:games "6"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "0"^^xsd:int ;
+    dcsso:minutes "68"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 0e+00 ;
+    dcsso:npxG90 0e+00 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "0"^^xsd:int ;
+    dcsso:tmValue "8000000"^^xsd:int ;
+    dcsso:xA 0e+00 ;
+    dcsso:xA90 0e+00 ;
+    dcsso:xG 0e+00 ;
+    dcsso:xG90 0e+00 ;
+    dcsso:xGBuildup 3.968014e-01 ;
+    dcsso:xGChain 3.968014e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
 
 dcsso:memb92141s2015t12 a dcsso:SeasonalMembership ;
@@ -63541,6 +64719,29 @@ dcsso:memb94529s2015t12 a dcsso:SeasonalMembership ;
     dcsso:xGChain 9.401625e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
 
+dcsso:memb94529s2015t12_162 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "2"^^xsd:int ;
+    dcsso:forTeam dcsso:team12,
+        dcsso:team162 ;
+    dcsso:games "31"^^xsd:int ;
+    dcsso:goals "8"^^xsd:int ;
+    dcsso:keyPasses "21"^^xsd:int ;
+    dcsso:minutes "1893"^^xsd:int ;
+    dcsso:npg "8"^^xsd:int ;
+    dcsso:npxG 8.061471e+00 ;
+    dcsso:npxG90 2.18041e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "73"^^xsd:int ;
+    dcsso:tmValue "17000000"^^xsd:int ;
+    dcsso:xA 2.749113e+00 ;
+    dcsso:xA90 3.97866e-03 ;
+    dcsso:xG 8.061471e+00 ;
+    dcsso:xG90 2.18041e-02 ;
+    dcsso:xGBuildup 6.082923e+00 ;
+    dcsso:xGChain 1.50411e+01 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb94529s2015t162 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team162 ;
@@ -64090,6 +65291,29 @@ dcsso:memb98249s2015t1533 a dcsso:SeasonalMembership ;
     dcsso:xG90 1.538347e-01 ;
     dcsso:xGBuildup 3.067006e+00 ;
     dcsso:xGChain 8.988619e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb98249s2015t1533_24 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "3"^^xsd:int ;
+    dcsso:forTeam dcsso:team1533,
+        dcsso:team24 ;
+    dcsso:games "28"^^xsd:int ;
+    dcsso:goals "3"^^xsd:int ;
+    dcsso:keyPasses "24"^^xsd:int ;
+    dcsso:minutes "1678"^^xsd:int ;
+    dcsso:npg "3"^^xsd:int ;
+    dcsso:npxG 2.784407e+00 ;
+    dcsso:npxG90 8.250965e-03 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "35"^^xsd:int ;
+    dcsso:tmValue "3000000"^^xsd:int ;
+    dcsso:xA 4.069297e+00 ;
+    dcsso:xA90 1.200443e-02 ;
+    dcsso:xG 2.784407e+00 ;
+    dcsso:xG90 8.250965e-03 ;
+    dcsso:xGBuildup 3.067006e+00 ;
+    dcsso:xGChain 9.006847e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb98249s2015t24 a dcsso:SeasonalMembership ;
