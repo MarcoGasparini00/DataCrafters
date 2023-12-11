@@ -24235,6 +24235,15 @@ dcsso:player281404 a dcsso:Footballer ;
     foaf:familyName "Kenedy"^^xsd:string ;
     foaf:name "Kenedy"^^xsd:string .
 
+dcsso:player28171 a dcsso:Footballer ;
+    dcsso:birthdate "1984"^^xsd:int ;
+    dcsso:hasCitizenship dcsso:UY ;
+    dcsso:height "178.0"^^xsd:int ;
+    dcsso:position dcsso:Forward ;
+    dcsso:subPosition dcsso:LeftWinger ;
+    foaf:familyName "Chory Castro"^^xsd:string ;
+    foaf:name "Chory Castro"^^xsd:string .
+
 dcsso:player281755 a dcsso:Footballer ;
     dcsso:birthdate "1995"^^xsd:int ;
     dcsso:hasCitizenship dcsso:ES ;
@@ -41511,16 +41520,6 @@ dcsso:player459452 a dcsso:Footballer ;
     foaf:familyName "Ladinetti"^^xsd:string ;
     foaf:firstName "Riccardo"^^xsd:string ;
     foaf:name "Riccardo Ladinetti"^^xsd:string .
-
-dcsso:player459463 a dcsso:Footballer ;
-    dcsso:birthdate "1999"^^xsd:int ;
-    dcsso:hasCitizenship dcsso:CO ;
-    dcsso:height "176.0"^^xsd:int ;
-    dcsso:position dcsso:Forward ;
-    dcsso:subPosition dcsso:CentreForward ;
-    foaf:familyName "Hernandez"^^xsd:string ;
-    foaf:firstName "Cucho"^^xsd:string ;
-    foaf:name "Cucho Hernandez"^^xsd:string .
 
 dcsso:player459504 a dcsso:Footballer ;
     dcsso:birthdate "2001"^^xsd:int ;

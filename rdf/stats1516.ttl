@@ -2418,6 +2418,8 @@ dcsso:player28140 dcsso:hasMembership dcsso:memb28140s2015t989 .
 
 dcsso:player281404 dcsso:hasMembership dcsso:memb281404s2015t631 .
 
+dcsso:player28171 dcsso:hasMembership dcsso:memb28171s2015t1084_681 .
+
 dcsso:player281963 dcsso:hasMembership dcsso:memb281963s2015t13 .
 
 dcsso:player281990 dcsso:hasMembership dcsso:memb281990s2015t13 .
@@ -2512,8 +2514,7 @@ dcsso:player28936 dcsso:hasMembership dcsso:memb28936s2015t862 .
 
 dcsso:player289433 dcsso:hasMembership dcsso:memb289433s2015t583 .
 
-dcsso:player28947 dcsso:hasMembership dcsso:memb28947s2015t1084_681,
-        dcsso:memb28947s2015t16 .
+dcsso:player28947 dcsso:hasMembership dcsso:memb28947s2015t16 .
 
 dcsso:player289507 dcsso:hasMembership dcsso:memb289507s2015t82 .
 
@@ -32163,6 +32164,29 @@ dcsso:memb28140s2015t989 a dcsso:SeasonalMembership ;
     dcsso:xGChain 2.496541e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
 
+dcsso:memb28171s2015t1084_681 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "4"^^xsd:int ;
+    dcsso:forTeam dcsso:team1084,
+        dcsso:team681 ;
+    dcsso:games "24"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "34"^^xsd:int ;
+    dcsso:minutes "1406"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 9.705627e-01 ;
+    dcsso:npxG90 6.212706e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2015"^^xsd:int ;
+    dcsso:shots "21"^^xsd:int ;
+    dcsso:tmValue "2500000"^^xsd:int ;
+    dcsso:xA 3.801299e+00 ;
+    dcsso:xA90 2.433264e-01 ;
+    dcsso:xG 9.705627e-01 ;
+    dcsso:xG90 6.212706e-02 ;
+    dcsso:xGBuildup 5.414759e+00 ;
+    dcsso:xGChain 8.4032e+00 ;
+    dcsso:yellowCards "1"^^xsd:int .
+
 dcsso:memb281963s2015t13 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
     dcsso:forTeam dcsso:team13 ;
@@ -33196,29 +33220,6 @@ dcsso:memb289433s2015t583 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 0e+00 ;
     dcsso:xGChain 0e+00 ;
     dcsso:yellowCards "0"^^xsd:int .
-
-dcsso:memb28947s2015t1084_681 a dcsso:SeasonalAggrMembership ;
-    dcsso:assists "4"^^xsd:int ;
-    dcsso:forTeam dcsso:team1084,
-        dcsso:team681 ;
-    dcsso:games "24"^^xsd:int ;
-    dcsso:goals "1"^^xsd:int ;
-    dcsso:keyPasses "34"^^xsd:int ;
-    dcsso:minutes "1406"^^xsd:int ;
-    dcsso:npg "1"^^xsd:int ;
-    dcsso:npxG 9.705627e-01 ;
-    dcsso:npxG90 6.212706e-02 ;
-    dcsso:redCards "0"^^xsd:int ;
-    dcsso:season "2015"^^xsd:int ;
-    dcsso:shots "21"^^xsd:int ;
-    dcsso:tmValue "14000000"^^xsd:int ;
-    dcsso:xA 3.801299e+00 ;
-    dcsso:xA90 2.433264e-01 ;
-    dcsso:xG 9.705627e-01 ;
-    dcsso:xG90 6.212706e-02 ;
-    dcsso:xGBuildup 5.414759e+00 ;
-    dcsso:xGChain 8.4032e+00 ;
-    dcsso:yellowCards "1"^^xsd:int .
 
 dcsso:memb28947s2015t16 a dcsso:SeasonalMembership ;
     dcsso:assists "7"^^xsd:int ;

@@ -594,6 +594,8 @@ dcsso:player139336 dcsso:hasMembership dcsso:memb139336s2018t1533 .
 
 dcsso:player139396 dcsso:hasMembership dcsso:memb139396s2018t23826 .
 
+dcsso:player139434 dcsso:hasMembership dcsso:memb139434s2018t12321_1244 .
+
 dcsso:player139895 dcsso:hasMembership dcsso:memb139895s2018t1108 .
 
 dcsso:player140191 dcsso:hasMembership dcsso:memb140191s2018t379 .
@@ -3051,8 +3053,7 @@ dcsso:player34561 dcsso:hasMembership dcsso:memb34561s2018t2722 .
 
 dcsso:player34572 dcsso:hasMembership dcsso:memb34572s2018t506 .
 
-dcsso:player34601 dcsso:hasMembership dcsso:memb34601s2018t12321_1244,
-        dcsso:memb34601s2018t621 .
+dcsso:player34601 dcsso:hasMembership dcsso:memb34601s2018t621 .
 
 dcsso:player346289 dcsso:hasMembership dcsso:memb346289s2018t1049 .
 
@@ -11937,6 +11938,29 @@ dcsso:memb139396s2018t23826 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 2.803446e+00 ;
     dcsso:xGChain 4.263362e+00 ;
     dcsso:yellowCards "1"^^xsd:int .
+
+dcsso:memb139434s2018t12321_1244 a dcsso:SeasonalAggrMembership ;
+    dcsso:assists "1"^^xsd:int ;
+    dcsso:forTeam dcsso:team12321,
+        dcsso:team1244 ;
+    dcsso:games "15"^^xsd:int ;
+    dcsso:goals "0"^^xsd:int ;
+    dcsso:keyPasses "6"^^xsd:int ;
+    dcsso:minutes "1237"^^xsd:int ;
+    dcsso:npg "0"^^xsd:int ;
+    dcsso:npxG 1.902225e-01 ;
+    dcsso:npxG90 1.383996e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2018"^^xsd:int ;
+    dcsso:shots "7"^^xsd:int ;
+    dcsso:tmValue "1000000"^^xsd:int ;
+    dcsso:xA 2.974706e-01 ;
+    dcsso:xA90 2.164297e-02 ;
+    dcsso:xG 1.902225e-01 ;
+    dcsso:xG90 1.383996e-02 ;
+    dcsso:xGBuildup 1.242777e+00 ;
+    dcsso:xGChain 1.371732e+00 ;
+    dcsso:yellowCards "2"^^xsd:int .
 
 dcsso:memb139895s2018t1108 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -39591,29 +39615,6 @@ dcsso:memb34572s2018t506 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 3.677958e+00 ;
     dcsso:xGChain 1.139428e+01 ;
     dcsso:yellowCards "4"^^xsd:int .
-
-dcsso:memb34601s2018t12321_1244 a dcsso:SeasonalAggrMembership ;
-    dcsso:assists "1"^^xsd:int ;
-    dcsso:forTeam dcsso:team12321,
-        dcsso:team1244 ;
-    dcsso:games "15"^^xsd:int ;
-    dcsso:goals "0"^^xsd:int ;
-    dcsso:keyPasses "6"^^xsd:int ;
-    dcsso:minutes "1237"^^xsd:int ;
-    dcsso:npg "0"^^xsd:int ;
-    dcsso:npxG 1.902225e-01 ;
-    dcsso:npxG90 1.383996e-02 ;
-    dcsso:redCards "0"^^xsd:int ;
-    dcsso:season "2018"^^xsd:int ;
-    dcsso:shots "7"^^xsd:int ;
-    dcsso:tmValue "6000000"^^xsd:int ;
-    dcsso:xA 2.974706e-01 ;
-    dcsso:xA90 2.164297e-02 ;
-    dcsso:xG 1.902225e-01 ;
-    dcsso:xG90 1.383996e-02 ;
-    dcsso:xGBuildup 1.242777e+00 ;
-    dcsso:xGChain 1.371732e+00 ;
-    dcsso:yellowCards "2"^^xsd:int .
 
 dcsso:memb34601s2018t621 a dcsso:SeasonalMembership ;
     dcsso:assists "3"^^xsd:int ;
