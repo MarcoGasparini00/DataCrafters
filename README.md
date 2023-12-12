@@ -1,7 +1,8 @@
 # DataCrafters
-DataCrafters' group work about football Open Data.
+## DataCrafters' group work about a Graph Database for football Open Data - University of Padua, 2023
+The overall goal of this work is to collect, clean and organize statistics about football players and clubs, in order to create a Graph Database allowing to query and analyze them. 
 
-URLs of the datasets:
+Here are the URLs of the datasets we have used:
 * https://www.kaggle.com/datasets/jashsheth5/indepth-soccer-statistics-xg-xa-and-more <br>
   Our main source. The dataset contains detailed seasonal statistics for every player from top European leagues from season 14/15 to season 19/20.
 * https://www.kaggle.com/datasets/davidcariboo/player-scores <br>
@@ -9,4 +10,4 @@ URLs of the datasets:
   The source of these data is Transfermarkt, and they come along TM IDs of players and clubs, which are extremely useful for matching purposes.
 * https://www.kaggle.com/datasets/kriegsmaschine/soccer-players-values-and-their-statistics/  <br>
   We have used this dataset to compute split statistics about players switching team during a season. It contains detailed data from season 17/18 to season 19/20, although it's not exhaustive in terms of players.  <br>
-  Description at https://github.com/RSKriegs/Modelling-Football-Players-Values-on-Transfer-Market-and-Their-Determinants-using-Robust-Regression/blob/main/data/columns_description.pdf
+  Columns description at https://github.com/RSKriegs/Modelling-Football-Players-Values-on-Transfer-Market-and-Their-Determinants-using-Robust-Regression/blob/main/data/columns_description.pdf
