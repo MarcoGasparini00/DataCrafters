@@ -1,5 +1,5 @@
 # DataCrafters
-## DataCrafters' group work about a Graph Database for football Open Data - University of Padua, 2023
+## DataCrafters' group work about a Graph Database for football Open Data - University of Padua, 2023 
 The overall goal of this work is to collect, clean and organize statistics about football players and clubs, in order to create a Graph Database allowing to query and analyze them. 
 
 Here are the URLs of the datasets we have used:
