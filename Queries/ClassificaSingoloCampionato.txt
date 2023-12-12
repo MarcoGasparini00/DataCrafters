@@ -1,0 +1,20 @@
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dcsso: <http://www.dei.unipd.it/db2/dcsso#>
+SELECT ?teamname ?games ?wins ?draws ?losses ?points ?goals ?goalsAgainst ?xG ?xGAgainst ?xPoints WHERE {
+    ?team foaf:name ?teamname;
+    	dcsso:hasParticipation ?participation;
+    	dcsso:participatesIn dcsso:IT1.
+    ?participation dcsso:season "2015"^^xsd:int;
+        dcsso:games ?games;
+    	dcsso:wins ?wins;
+    	dcsso:draws ?draws;
+    	dcsso:losses ?losses;
+    	dcsso:points ?points;
+    	dcsso:goals ?goals;
+    	dcsso:goalsAgainst ?goalsAgainst;
+    	dcsso:xG ?xG;
+    	dcsso:xGA ?xGAgainst;
+    	dcsso:xPoints ?xPoints.
+    	
+}
+order by desc(?points)
