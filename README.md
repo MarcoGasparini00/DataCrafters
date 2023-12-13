@@ -16,3 +16,5 @@ Organization of the repository:
 * __rdf:__ contains all the .ttl files obtained by serialization in the notebook.
 * __loadData:__ contains the datasets, the Jupyter notebook we have used for ingesting the data and some intermediate outputs.
 * __dcsso:__ contains our ontology and the ones we have imorted (FOAF, SKOS).
+* __queries:__ contains textual files with some queries, divided by topic.
+* __SHACL:__ contains textual files with the SHACL shapes we have used to validate our data.
