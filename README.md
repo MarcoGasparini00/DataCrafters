@@ -19,3 +19,6 @@ Here are the URLs of the datasets we have used:
 * __dcsso:__ contains our ontology and the ones we have imorted (FOAF, SKOS).
 * __queries:__ contains textual files with some queries, divided by topic.
 * __SHACL:__ contains textual files with the SHACL shapes we have used to validate our data.
+
+#### A quick overview to our model
+![alt text](https://github.com/MarcoGasparini00/DataCrafters/blob/main/dcsso_graph.jpg?raw=true)
