@@ -419,6 +419,8 @@ dcsso:player127194 dcsso:hasMembership dcsso:memb127194s2018t415 .
 
 dcsso:player127202 dcsso:hasMembership dcsso:memb127202s2018t667 .
 
+dcsso:player127554 dcsso:hasMembership dcsso:memb127554s2018t366 .
+
 dcsso:player127573 dcsso:hasMembership dcsso:memb127573s2018t39 .
 
 dcsso:player127610 dcsso:hasMembership dcsso:memb127610s2018t273 .
@@ -1811,9 +1813,7 @@ dcsso:player23284 dcsso:hasMembership dcsso:memb23284s2018t749 .
 
 dcsso:player232854 dcsso:hasMembership dcsso:memb232854s2018t667 .
 
-dcsso:player23287 dcsso:hasMembership dcsso:memb23287s2018t366,
-        dcsso:memb23287s2018t366_418,
-        dcsso:memb23287s2018t418 .
+dcsso:player23287 dcsso:hasMembership dcsso:memb23287s2018t418 .
 
 dcsso:player23338 dcsso:hasMembership dcsso:memb23338s2018t1533 .
 
@@ -10045,6 +10045,28 @@ dcsso:memb127202s2018t667 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 2.378257e+00 ;
     dcsso:xGChain 2.378257e+00 ;
     dcsso:yellowCards "2"^^xsd:int .
+
+dcsso:memb127554s2018t366 a dcsso:SeasonalMembership ;
+    dcsso:assists "3"^^xsd:int ;
+    dcsso:forTeam dcsso:team366 ;
+    dcsso:games "35"^^xsd:int ;
+    dcsso:goals "1"^^xsd:int ;
+    dcsso:keyPasses "42"^^xsd:int ;
+    dcsso:minutes "3150"^^xsd:int ;
+    dcsso:npg "1"^^xsd:int ;
+    dcsso:npxG 5.801392e-01 ;
+    dcsso:npxG90 1.657541e-02 ;
+    dcsso:redCards "0"^^xsd:int ;
+    dcsso:season "2018"^^xsd:int ;
+    dcsso:shots "17"^^xsd:int ;
+    dcsso:tmValue "3000000"^^xsd:int ;
+    dcsso:xA 3.700065e+00 ;
+    dcsso:xA90 1.057161e-01 ;
+    dcsso:xG 5.801392e-01 ;
+    dcsso:xG90 1.657541e-02 ;
+    dcsso:xGBuildup 8.02709e+00 ;
+    dcsso:xGChain 1.077946e+01 ;
+    dcsso:yellowCards "10"^^xsd:int .
 
 dcsso:memb127573s2018t39 a dcsso:SeasonalMembership ;
     dcsso:assists "0"^^xsd:int ;
@@ -25857,51 +25879,6 @@ dcsso:memb232854s2018t667 a dcsso:SeasonalMembership ;
     dcsso:xGBuildup 1.725712e-01 ;
     dcsso:xGChain 2.271802e-01 ;
     dcsso:yellowCards "0"^^xsd:int .
-
-dcsso:memb23287s2018t366 a dcsso:SeasonalMembership ;
-    dcsso:assists "3"^^xsd:int ;
-    dcsso:forTeam dcsso:team366 ;
-    dcsso:games "35"^^xsd:int ;
-    dcsso:goals "1"^^xsd:int ;
-    dcsso:keyPasses "42"^^xsd:int ;
-    dcsso:minutes "3150"^^xsd:int ;
-    dcsso:npg "1"^^xsd:int ;
-    dcsso:npxG 5.801392e-01 ;
-    dcsso:npxG90 1.657541e-02 ;
-    dcsso:redCards "0"^^xsd:int ;
-    dcsso:season "2018"^^xsd:int ;
-    dcsso:shots "17"^^xsd:int ;
-    dcsso:tmValue "1200000"^^xsd:int ;
-    dcsso:xA 3.700065e+00 ;
-    dcsso:xA90 1.057161e-01 ;
-    dcsso:xG 5.801392e-01 ;
-    dcsso:xG90 1.657541e-02 ;
-    dcsso:xGBuildup 8.02709e+00 ;
-    dcsso:xGChain 1.077946e+01 ;
-    dcsso:yellowCards "10"^^xsd:int .
-
-dcsso:memb23287s2018t366_418 a dcsso:SeasonalAggrMembership ;
-    dcsso:assists "4"^^xsd:int ;
-    dcsso:forTeam dcsso:team366,
-        dcsso:team418 ;
-    dcsso:games "55"^^xsd:int ;
-    dcsso:goals "1"^^xsd:int ;
-    dcsso:keyPasses "48"^^xsd:int ;
-    dcsso:minutes "4854"^^xsd:int ;
-    dcsso:npg "1"^^xsd:int ;
-    dcsso:npxG 8.935663e-01 ;
-    dcsso:npxG90 3.073314e-04 ;
-    dcsso:redCards "1"^^xsd:int ;
-    dcsso:season "2018"^^xsd:int ;
-    dcsso:shots "22"^^xsd:int ;
-    dcsso:tmValue "1200000"^^xsd:int ;
-    dcsso:xA 4.631764e+00 ;
-    dcsso:xA90 1.960126e-03 ;
-    dcsso:xG 8.935663e-01 ;
-    dcsso:xG90 3.073314e-04 ;
-    dcsso:xGBuildup 1.536346e+01 ;
-    dcsso:xGChain 1.827312e+01 ;
-    dcsso:yellowCards "16"^^xsd:int .
 
 dcsso:memb23287s2018t418 a dcsso:SeasonalMembership ;
     dcsso:assists "1"^^xsd:int ;
