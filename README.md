@@ -15,3 +15,4 @@ Here are the URLs of the datasets we have used:
 Organization of the repository:
 * __rdf:__ contains all the .ttl files obtained by serialization in the notebook.
 * __loadData:__ contains the datasets, the Jupyter notebook we have used for ingesting the data and some intermediate outputs.
+* __dcsso:__ contains our ontology and the ones we have imorted (FOAF, SKOS).
