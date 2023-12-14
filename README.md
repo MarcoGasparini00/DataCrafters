@@ -12,7 +12,8 @@ Here are the URLs of the datasets we have used:
 * https://www.kaggle.com/datasets/kriegsmaschine/soccer-players-values-and-their-statistics/  <br>
   We have used this dataset to compute split statistics about players switching team during a season. It contains detailed data from season 17/18 to season 19/20, although it's not exhaustive in terms of players.  <br>
   Columns description at https://github.com/RSKriegs/Modelling-Football-Players-Values-on-Transfer-Market-and-Their-Determinants-using-Robust-Regression/blob/main/data/columns_description.pdf
-* https://understat.com/ All the data regarding the ladders of the leagues from season 14/15 to season 19/20 were scraped from understat. <br>
+* https://understat.com/ <br>
+  All the data regarding the ladders of the leagues from season 14/15 to season 19/20 were scraped from understat. <br>
 
 #### Organization of the repository
 * __rdf:__ contains all the .ttl files obtained by serialization in the notebook.
