@@ -182,11 +182,12 @@
     
 
 
-    <!-- http://www.dei.unipd.it/db2/dcsso#birthyear -->
+    <!-- http://www.dei.unipd.it/db2/dcsso#birthdate -->
 
-    <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#birthyear">
+    <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#birthdate">
         <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:comment>Year of a person&apos;s birth.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -264,7 +265,7 @@
 
     <owl:DatatypeProperty rdf:about="http://www.dei.unipd.it/db2/dcsso#height">
         <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
         <rdfs:comment>Height of a Person, in cm.</rdfs:comment>
     </owl:DatatypeProperty>
     
@@ -692,7 +693,17 @@
     <!-- http://www.dei.unipd.it/db2/dcsso#Position -->
 
     <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#Position">
-        <rdfs:comment>The instances of this class are the 4 main positions of footballers on the pitch.</rdfs:comment>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Defender"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Forward"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Goalkeeper"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Midfielder"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:comment>The instances of this class are the 4 main positions of footballers on the pitch. Therefore, it is an enumerated class.</rdfs:comment>
     </owl:Class>
     
 
@@ -701,7 +712,7 @@
 
     <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalAggrMembership">
         <rdfs:subClassOf rdf:resource="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
-        <rdfs:comment>Reunites the main information and statistics about a player&apos;s season in two teams..</rdfs:comment>
+        <rdfs:comment>Reunites the main information and statistics about a player&apos;s season in two teams.</rdfs:comment>
     </owl:Class>
     
 
@@ -834,6 +845,11 @@
                 <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <owl:disjointUnionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalAggrMembership"/>
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalMembership"/>
+        </owl:disjointUnionOf>
+        <rdfs:comment>This class is just a &quot;wrapping&quot; superclass for the two types of Membership.</rdfs:comment>
     </owl:Class>
     
 
@@ -841,7 +857,24 @@
     <!-- http://www.dei.unipd.it/db2/dcsso#SubPosition -->
 
     <owl:Class rdf:about="http://www.dei.unipd.it/db2/dcsso#SubPosition">
-        <rdfs:subClassOf rdf:resource="http://www.dei.unipd.it/db2/dcsso#Position"/>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#AttackingMidfielder"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentralMidfielder"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentreBack"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#CentreForward"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#DefensiveMidfielder"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Goalkeeper"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftBack"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftMidfielder"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#LeftWinger"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightBack"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightMidfielder"/>
+                    <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#RightWinger"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
         <rdfs:comment>Main sub-positions of footballers on the pitch. Its individuals are linked by means of Skos properties to Position Individuals.</rdfs:comment>
     </owl:Class>
     
@@ -956,6 +989,8 @@
     <owl:NamedIndividual rdf:about="http://www.dei.unipd.it/db2/dcsso#Goalkeeper">
         <rdf:type rdf:resource="http://www.dei.unipd.it/db2/dcsso#Position"/>
         <rdf:type rdf:resource="http://www.dei.unipd.it/db2/dcsso#SubPosition"/>
+        <skos:broaderTransitive rdf:resource="http://www.dei.unipd.it/db2/dcsso#Goalkeeper"/>
+        <rdfs:comment>This is both a Position and a SubPosition.</rdfs:comment>
     </owl:NamedIndividual>
     
 
@@ -1045,6 +1080,15 @@
             <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#Position"/>
             <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation"/>
             <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+            <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalParticipation"/>
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SeasonalRecord"/>
+            <rdf:Description rdf:about="http://www.dei.unipd.it/db2/dcsso#SubPosition"/>
             <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent"/>
         </owl:members>
     </rdf:Description>
