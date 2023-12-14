@@ -1,3 +1,5 @@
+#Shape for verifying that every team has a participation in at least one league and a maximum of six (total considered seasons)
+
 prefix ex: <http://example.com/ns#>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
 prefix sh: <http://www.w3.org/ns/shacl#> 

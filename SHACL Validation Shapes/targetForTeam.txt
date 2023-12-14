@@ -1,3 +1,6 @@
+#Shape for verifying the correct format of all the data propreties that belongs to a player membership
+
+
 prefix ex: <http://example.com/ns#>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
 prefix sh: <http://www.w3.org/ns/shacl#> 

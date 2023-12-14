@@ -1,3 +1,5 @@
+#Shape for verifying that every footballer has at least one position (some very young players don't have a specified position)
+
 prefix ex: <http://example.com/ns#>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
 prefix sh: <http://www.w3.org/ns/shacl#> 

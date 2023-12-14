@@ -1,3 +1,5 @@
+#Shape for verifying that every player membership belongs to a minimum of one team and a maximum of two (the player moves in the winter transfer window)
+
 prefix ex: <http://example.com/ns#>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
 prefix sh: <http://www.w3.org/ns/shacl#> 
