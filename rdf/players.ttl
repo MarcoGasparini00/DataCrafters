@@ -45100,8 +45100,8 @@ dcsso:player53622 a dcsso:Footballer ;
     dcsso:position dcsso:Midfielder ;
     dcsso:subPosition dcsso:CentralMidfielder ;
     foaf:familyName "Gundogan"^^xsd:string ;
-    foaf:firstName "ilkay"^^xsd:string ;
-    foaf:name "ilkay Gundogan"^^xsd:string .
+    foaf:firstName "Ilkay"^^xsd:string ;
+    foaf:name "Ilkay Gundogan"^^xsd:string .
 
 dcsso:player536460 a dcsso:Footballer ;
     dcsso:birthdate "2001"^^xsd:int ;
